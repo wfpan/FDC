@@ -1,0 +1,2295 @@
+*Vertices 1068
+1 "org.apache.log4j.net.test.SyslogMin.Usage@String#void"
+2 "com.klopotek.utils.log.LogType.parseLogType@String#int"
+3 "com.klopotek.utils.log.JDBCLogger.new_sql_part1"
+4 "org.apache.log4j.Hierarchy.updateParents@Category#void"
+5 "org.apache.log4j.Priority.ERROR"
+6 "org.apache.log4j.xml.DC.endDocument#void"
+7 "org.apache.log4j.performance.NewVsSetLen.SBUF_LEN"
+8 "org.apache.log4j.net.DatagramStringWriter.DatagramStringWriter@String@int@String@String#void"
+9 "org.apache.log4j.examples.MyCategory.FQCN"
+10 "org.apache.log4j.helpers.PatternParser.NamedPatternConverter.getFullyQualifiedName@LoggingEvent#String"
+11 "exercise.echo.client.EchoClient.main@String#void"
+12 "org.apache.log4j.test.PatternTest.main@String#void"
+13 "org.apache.log4j.config.PropertySetterException.PropertySetterException@String#void"
+14 "org.apache.log4j.StressCategory.priority"
+15 "org.apache.log4j.varia.PriorityRangeFilter.PRIORITY_MIN_OPTION"
+16 "org.apache.log4j.net.DatagramStringWriter.DatagramStringWriter@String@int#void"
+17 "org.apache.log4j.test.UnitTestOptionConverter.tearDown#void"
+18 "org.apache.log4j.CategoryKey.CategoryKey@String#void"
+19 "com.klopotek.utils.log.JDBCLogger.new_sql"
+20 "org.apache.log4j.xml.examples.XMLSample.sample#void"
+21 "org.apache.log4j.test.SocketAppenderTest.cat"
+22 "org.apache.log4j.gui.examples.LogTextPanelExampleGenThread.LogTextPanelExampleGenThread@String#void"
+23 "org.apache.log4j.gui.LogTextPanel.newEvents@EventBufferElement#void"
+24 "org.apache.log4j.helpers.CyclicBuffer.length#int"
+25 "org.apache.log4j.performance.ConcatVsArray.Usage#void"
+26 "com.klopotek.utils.log.JDBCLogger.ready#boolean"
+27 "org.apache.log4j.gui.TextPanelAppender.tp"
+28 "org.apache.log4j.helpers.LogLog.ERR_PREFIX"
+29 "org.apache.log4j.performance.NullAppender.NullAppender#void"
+30 "org.apache.log4j.gui.TextPanelAppender.sw"
+31 "org.apache.log4j.spi.ErrorCode.GENERIC_FAILURE"
+32 "org.apache.log4j.performance.NOPWriter.write@char[]@int@int#void"
+33 "org.apache.log4j.performance.NOPWriter.write@int#void"
+34 "org.apache.log4j.net.SocketNode.hierarchy"
+35 "org.apache.log4j.xml.examples.ReportParserError.error@org.xml.sax.SAXParseException#void"
+36 "com.psibt.framework.net.HTTPRequestHandler.handleRequest@String@Writer#boolean"
+37 "org.apache.log4j.CategoryKey.equals@Object#boolean"
+38 "org.apache.log4j.TempFileAppender.getOptionStrings#String"
+39 "org.apache.log4j.helpers.CyclicBuffer.get#LoggingEvent"
+40 "org.apache.log4j.Hierarchy.root"
+41 "org.apache.log4j.test.StressNDC.randomInt@int#int"
+42 "org.apache.log4j.helpers.PatternParser.extractOption#String"
+43 "org.apache.log4j.test.UnitTestCyclicBuffer.setUp#void"
+44 "org.apache.log4j.TempFileAppender.prefix"
+45 "org.apache.log4j.net.JMSAppender.TOPIC_BINDING_NAME_OPTION"
+46 "org.apache.log4j.net.test.SocketMin.loop#void"
+47 "org.apache.log4j.test.StressNDC.LOG_2"
+48 "org.apache.log4j.HTMLLayout.getOptionStrings#String"
+49 "org.apache.log4j.net.DatagramStringAppender.qw"
+50 "org.apache.log4j.test.Hello.main@String#void"
+51 "org.apache.log4j.test.UnitTestOptionConverter.varSubstTest2#void"
+52 "org.apache.log4j.net.SyslogAppender.setFacilityPrinting@boolean#void"
+53 "org.apache.log4j.xml.examples.XCategory.suffix"
+54 "org.apache.log4j.test.ConfigurationFileParsing.Usage@String#void"
+55 "com.psibt.framework.net.RootRequestHandler.getDescription#String"
+56 "org.apache.log4j.gui.LogTextPanel.textPane"
+57 "org.apache.log4j.helpers.SyslogQuietWriter.write@String#void"
+58 "org.apache.log4j.test.Shallow.delay@int#void"
+59 "org.apache.log4j.StressCategory.CT.CT@String@Priority#void"
+60 "org.apache.log4j.helpers.PatternParser.head"
+61 "org.apache.log4j.helpers.PatternParser.NamedPatternConverter.NamedPatternConverter@FormattingInfo@int#void"
+62 "org.apache.log4j.Hierarchy.getRendererMap#RendererMap"
+63 "org.apache.log4j.helpers.FormattingInfo.reset#void"
+64 "com.klopotek.utils.log.LogColumn.logtype"
+65 "org.apache.log4j.spi.OptionHandler.setOption@String@String#void"
+66 "org.apache.log4j.test.StressNDC.run#void"
+67 "org.apache.log4j.performance.NotLogging.CAT_ARRAY"
+68 "org.apache.log4j.net.DatagramStringWriter.write@String#void"
+69 "org.apache.log4j.config.PropertySetter.setProperties@Properties@String#void"
+70 "org.apache.log4j.StressCategory.permute@int#void"
+71 "org.apache.log4j.performance.NotLogging.INITIAL_HASH_SIZE"
+72 "org.apache.log4j.helpers.QuietWriter.write@String#void"
+73 "org.apache.log4j.StressCategory.cat"
+74 "com.psibt.framework.net.HTTPRequestHandler.getTitle#String"
+75 "org.apache.log4j.varia.JDBCAppender.finalize#void"
+76 "org.apache.log4j.varia.JDBCAppender.executeSQL@String#void"
+77 "org.apache.log4j.Hierarchy.rendererMap"
+78 "org.apache.log4j.xml.test.DOMTest.test#void"
+79 "org.apache.log4j.spi.LocationInfo.getMethodName#String"
+80 "org.apache.log4j.examples.NumberCruncher.factor@int#int[]"
+81 "org.apache.log4j.helpers.CyclicBuffer.numElems"
+82 "org.apache.log4j.xml.examples.XMLSample.main@String#void"
+83 "org.apache.log4j.spi.LocationInfo.sw"
+84 "org.apache.log4j.gui.TextPanelAppender.append@LoggingEvent#void"
+85 "org.apache.log4j.test.StressAsyncAppender.lock"
+86 "org.apache.log4j.nt.test.NTMin.test@String#void"
+87 "org.apache.log4j.Priority.getAllPossiblePriorities#Priority"
+88 "org.apache.log4j.xml.DC.processingInstruction@java.lang.String@java.lang.String#void"
+89 "org.apache.log4j.xml.test.DOMTest.Usage@String#void"
+90 "com.psibt.framework.net.PluggableHTTPServer.autoCreateRootPage@int#void"
+91 "com.klopotek.utils.log.JDBCAppender.setLogType@String@int@Object#boolean"
+92 "org.apache.log4j.HTMLLayout.LOCATION_INFO_OPTION"
+93 "org.apache.log4j.spi.LocationInfo.lineNumber"
+94 "com.psibt.framework.net.UserDialogRequestHandler.DialogThread.parentComponent"
+95 "org.apache.log4j.helpers.PatternParser.ClassNamePatternConverter.getFullyQualifiedName@LoggingEvent#String"
+96 "org.apache.log4j.varia.JDBCAppender.JDBCAppender#void"
+97 "com.klopotek.utils.log.JDBCAppender.configure#boolean"
+98 "org.apache.log4j.xml.test.SubClassTest.main@String#void"
+99 "org.apache.log4j.helpers.PatternParser.RELATIVE_TIME_CONVERTER"
+100 "org.apache.log4j.test.StressNDC.POP_MISS"
+101 "org.apache.log4j.performance.NewVsSetLen.newBuffer@int@int#double"
+102 "org.apache.log4j.test.StressAsyncAppender.main@String#void"
+103 "com.klopotek.utils.log.LogType.ID"
+104 "org.apache.log4j.gui.LogTextPanel.setTextColor@Priority@Color#void"
+105 "org.apache.log4j.gui.TextPanelAppender.FONT_NAME_OPTION"
+106 "org.apache.log4j.varia.JDBCAppender.PASSWORD_OPTION"
+107 "org.apache.log4j.test.Hello.cat"
+108 "org.apache.log4j.helpers.PatternParser.BasicPatternConverter.BasicPatternConverter@FormattingInfo@int#void"
+109 "org.apache.log4j.performance.Logging.DELAY_MULT"
+110 "com.klopotek.utils.log.DefaultConnectionHandler.con"
+111 "exercise.echo.server.EchoServer.usage#void"
+112 "com.psibt.framework.net.UserDialogRequestHandler.DialogThread.message"
+113 "org.apache.log4j.spi.LocationInfo.methodName"
+114 "org.apache.log4j.RollingFileAppender.rollOver#void"
+115 "org.apache.log4j.performance.NewVsSetLen.s"
+116 "org.apache.log4j.gui.TextPanelAppender.qw"
+117 "org.apache.log4j.test.SysoutConfigurator.doConfigure@java.net.URL@Hierarchy#void"
+118 "org.apache.log4j.xml.examples.XCategory.XFactory.makeNewCategoryInstance@String#Category"
+119 "org.apache.log4j.test.StressAsyncAppender.root"
+120 "org.apache.log4j.helpers.QuietWriter.flush#void"
+121 "org.apache.log4j.net.JMSAppender.setTopicConnectionFactoryBindingName@String#void"
+122 "org.apache.log4j.xml.DC.cat"
+123 "org.apache.log4j.net.DatagramStringAppender.DATAGRAM_HOST_OPTION"
+124 "org.apache.log4j.helpers.LogLog.quietMode"
+125 "org.apache.log4j.examples.Trivial.main@String#void"
+126 "com.klopotek.utils.log.JDBCAppender.configured"
+127 "org.apache.log4j.net.SyslogAppender.getFacility#String"
+128 "org.apache.log4j.net.DatagramStringWriter.port"
+129 "org.apache.log4j.performance.NullAppender.requiresLayout#boolean"
+130 "org.apache.log4j.gui.LogTextPanel.maxR"
+131 "org.apache.log4j.performance.ListVsVector.loopVector#double"
+132 "com.klopotek.utils.log.JDBCLogger.table"
+133 "org.apache.log4j.spi.LocationInfo.serialVersionUID"
+134 "NO_NAME.MyConnectionHandler.getConnection#Connection"
+135 "com.psibt.framework.net.RootRequestHandler.setReplyHTML@String#void"
+136 "org.apache.log4j.helpers.PatternParser.LocationPatternConverter.LocationPatternConverter@FormattingInfo@int#void"
+137 "com.klopotek.utils.log.JDBCAppender.PASSWORD_OPTION"
+138 "NO_NAME.LoggingOutputStream.LoggingOutputStream#void"
+139 "org.apache.log4j.net.SyslogAppender.LOG_LOCAL1"
+140 "org.apache.log4j.helpers.DateLayout.setDateFormat@DateFormat@TimeZone#void"
+141 "com.klopotek.utils.log.JDBCAppender.COMMIT_OPTION"
+142 "com.klopotek.utils.log.JDBCAppender.flush_buffer#void"
+143 "org.apache.log4j.examples.MyPatternParser.UserDirPatternConverter.UserDirPatternConverter@FormattingInfo#void"
+144 "org.apache.log4j.test.SocketAppenderTest.main@String#void"
+145 "org.apache.log4j.net.JMSAppender.append@LoggingEvent#void"
+146 "com.klopotek.utils.log.LogColumn.idhandler"
+147 "org.apache.log4j.Priority.toPriority@int#Priority"
+148 "org.apache.log4j.xml.examples.XPriority.LETHAL_STR"
+149 "org.apache.log4j.StressCategory.main@String#void"
+150 "org.apache.log4j.performance.NullAppender.close#void"
+151 "org.apache.log4j.spi.LocationInfo.getFileName#String"
+152 "org.apache.log4j.gui.TextPanelAppender.EVENT_BUFFER_SIZE_OPTION"
+153 "org.apache.log4j.performance.NOPWriter.write@String#void"
+154 "org.apache.log4j.examples.Trivial.cat"
+155 "org.apache.log4j.net.DatagramStringWriter.close#void"
+156 "org.apache.log4j.helpers.ISO8601DateFormat.parse@java.lang.String@ParsePosition#Date"
+157 "org.apache.log4j.Hierarchy.getInstance@String#Category"
+158 "org.apache.log4j.helpers.ISO8601DateFormat.format@Date@StringBuffer@FieldPosition#StringBuffer"
+159 "org.apache.log4j.net.test.SocketMin.test#void"
+160 "org.apache.log4j.test.StressAsyncAppender.maxThreads"
+161 "org.apache.log4j.helpers.DateLayout.dateFormat"
+162 "org.apache.log4j.xml.examples.XTest.sample#void"
+163 "org.apache.log4j.examples.MyPatternParser.MyPatternParser@String#void"
+164 "org.apache.log4j.config.PropertySetter.PropertySetter@Object#void"
+165 "com.psibt.framework.net.RootRequestHandler.setReplyType@String#void"
+166 "com.psibt.framework.net.RootRequestHandler.title"
+167 "org.apache.log4j.net.SyslogAppender.LOG_USER"
+168 "org.apache.log4j.gui.TextPanelAppender.LogPublishingThread.run#void"
+169 "org.apache.log4j.helpers.LogLog.setQuietMode@boolean#void"
+170 "org.apache.log4j.Hierarchy.updateChildren@ProvisionNode@Category#void"
+171 "org.apache.log4j.helpers.DateLayout.RELATIVE_TIME_DATE_FORMAT"
+172 "NO_NAME.LoggingOutputStream.flush#void"
+173 "org.apache.log4j.StressCategory.swap@String@int@int#void"
+174 "org.apache.log4j.gui.LogTextPanel.drawText#void"
+175 "org.apache.log4j.gui.LogTextPanel.createDefaultFontAttributes#void"
+176 "org.apache.log4j.net.DatagramStringAppender.port"
+177 "NO_NAME.LoggingOutputStream.category"
+178 "org.apache.log4j.test.AsyncAppenderTest.cat"
+179 "org.apache.log4j.test.ConfigurationFileParsing.main@String#void"
+180 "org.apache.log4j.xml.DC.endPrefixMapping@String#void"
+181 "org.apache.log4j.spi.ThrowableInformation.getThrowable#Throwable"
+182 "org.apache.log4j.gui.LogTextPanel.eventBuffer"
+183 "org.apache.log4j.test.CategoryWrapper.addAppender@Appender#void"
+184 "org.apache.log4j.spi.VectorWriter.VectorWriter#void"
+185 "org.apache.log4j.HTMLLayout.MAX_CAPACITY"
+186 "org.apache.log4j.spi.TriggeringEventEvaluator.isTriggeringEvent@LoggingEvent#boolean"
+187 "org.apache.log4j.gui.examples.LogTextPanelExampleGenThread.run#void"
+188 "org.apache.log4j.test.ROFile.init@String#void"
+189 "org.apache.log4j.StressCategory.catDump#void"
+190 "org.apache.log4j.xml.examples.XPriority.toPriority@int#Priority"
+191 "com.psibt.framework.net.PluggableHTTPServer.ServerThread.run#void"
+192 "org.apache.log4j.helpers.NullEnumeration.NullEnumeration#void"
+193 "org.apache.log4j.test.Shallow.usage@String#void"
+194 "org.apache.log4j.xml.DC.endElement@String@String@String#void"
+195 "org.apache.log4j.helpers.PatternConverter.leftAlign"
+196 "org.apache.log4j.performance.NotLogging.Usage#void"
+197 "org.apache.log4j.net.test.SocketMin.cat"
+198 "com.psibt.framework.net.RootRequestHandler.ReplyHTML"
+199 "org.apache.log4j.xml.examples.XCategory.lethal@String@Throwable#void"
+200 "org.apache.log4j.test.Base64.MAX_LINE"
+201 "exercise.echo.client.EchoClient.usage#void"
+202 "org.apache.log4j.net.test.SocketMin.main@String#void"
+203 "org.apache.log4j.RollingFileAppender.setMaxFileSize@long#void"
+204 "org.apache.log4j.Priority.FATAL"
+205 "com.klopotek.utils.log.LogType.isLogType@int#boolean"
+206 "org.apache.log4j.HTMLLayout.ignoresThrowable#boolean"
+207 "org.apache.log4j.xml.examples.XCategory.XCategory@String#void"
+208 "org.apache.log4j.helpers.PatternParser.currentLiteral"
+209 "org.apache.log4j.config.PropertySetter.obj"
+210 "org.apache.log4j.nt.test.NTMin.init#void"
+211 "com.klopotek.utils.log.JDBCAppender.url"
+212 "org.apache.log4j.net.DatagramStringAppender.DATAGRAM_ENCODING_OPTION"
+213 "org.apache.log4j.test.StressNDC.lock"
+214 "org.apache.log4j.test.ShortSocketServer.cat"
+215 "org.apache.log4j.spi.ThrowableInformation.ThrowableInformation@Throwable#void"
+216 "com.klopotek.utils.log.JDBCLogger.appendSQL@String#void"
+217 "NO_NAME.LoggingOutputStream.priority"
+218 "com.klopotek.utils.log.LogColumn.value"
+219 "org.apache.log4j.helpers.PatternParser.LITERAL_STATE"
+220 "org.apache.log4j.test.StressNDC.BRANCHING_FACTOR"
+221 "org.apache.log4j.test.AsyncAppenderTest.main@String#void"
+222 "org.apache.log4j.gui.TextPanelAppender.COLOR_OPTION_INFO"
+223 "org.apache.log4j.helpers.CountingQuietWriter.CountingQuietWriter@Writer@ErrorHandler#void"
+224 "org.apache.log4j.test.UnitTestOptionConverter.toPriorityTest5#void"
+225 "org.apache.log4j.net.SyslogAppender.LOG_LOCAL3"
+226 "org.apache.log4j.RollingFileAppender.maxFileSize"
+227 "org.apache.log4j.Hierarchy.getInstance@String@CategoryFactory#Category"
+228 "org.apache.log4j.performance.NullAppender.s"
+229 "org.apache.log4j.Priority.ERROR_INT"
+230 "org.apache.log4j.test.CategoryWrapper.c"
+231 "org.apache.log4j.spi.VectorWriter.v"
+232 "com.klopotek.utils.log.JDBCLogger.new_sql_part2"
+233 "org.apache.log4j.gui.LogTextPanel.fontAttributes"
+234 "org.apache.log4j.helpers.PatternParser.DOT_STATE"
+235 "org.apache.log4j.Hierarchy.emittedNoResourceBundleWarning"
+236 "org.apache.log4j.helpers.PatternParser.PatternParser@String#void"
+237 "org.apache.log4j.helpers.AbsoluteTimeDateFormat.parse@String@ParsePosition#Date"
+238 "org.apache.log4j.xml.test.SubClassTest.cat"
+239 "org.apache.log4j.test.UnitTestCyclicBuffer.e"
+240 "org.apache.log4j.net.SyslogAppender.LOG_UUCP"
+241 "org.apache.log4j.test.SpacePad.SPACES"
+242 "org.apache.log4j.spi.ErrorCode.FILE_OPEN_FAILURE"
+243 "org.apache.log4j.helpers.SyslogWriter.close#void"
+244 "com.klopotek.utils.log.LogType.TIMESTAMP"
+245 "NO_NAME.MyIDHandler.id"
+246 "org.apache.log4j.test.MultipleAppenders.main@String#void"
+247 "org.apache.log4j.performance.NOPWriter.flush#void"
+248 "com.systemsunion.LoggingServer.SocketNode2.cat"
+249 "com.psibt.framework.net.PluggableHTTPServer.replyMethodNotAllowed@Writer#void"
+250 "org.apache.log4j.helpers.PatternParser.MINUS_STATE"
+251 "org.apache.log4j.helpers.LogLog.error@String#void"
+252 "org.apache.log4j.helpers.PatternParser.pattern"
+253 "org.apache.log4j.helpers.LogLog.error@String@Throwable#void"
+254 "org.apache.log4j.performance.NotLogging.SHORT_MSG"
+255 "com.psibt.framework.net.PluggableHTTPServer.port"
+256 "org.apache.log4j.varia.PriorityRangeFilter.getAcceptOnMatch#boolean"
+257 "NO_NAME.MyConnectionHandler.password"
+258 "org.apache.log4j.varia.JDBCAppender.flushBuffer#void"
+259 "org.apache.log4j.helpers.AbsoluteTimeDateFormat.ABS_TIME_DATE_FORMAT"
+260 "com.klopotek.utils.log.LogType.EMPTY"
+261 "org.apache.log4j.HTMLLayout.locationInfo"
+262 "org.apache.log4j.net.SyslogAppender.LOG_CRON"
+263 "org.apache.log4j.examples.NumberCruncherClient.usage@String#void"
+264 "org.apache.log4j.helpers.FormattingInfo.dump#void"
+265 "org.apache.log4j.performance.NotLogging.ComplexMessage@Category@long#double"
+266 "org.apache.log4j.TempFileAppender.requiresLayout#boolean"
+267 "org.apache.log4j.xml.test.DOMTest.init@String#void"
+268 "com.systemsunion.LoggingServer.SocketNode2.ois"
+269 "org.apache.log4j.net.JMSAppender.tcfBindingName"
+270 "org.apache.log4j.test.ShippedCodeFlagTest.Usage@String#void"
+271 "com.psibt.framework.net.RootRequestHandler.getTitle#String"
+272 "com.psibt.framework.net.Log4jRequestHandler.Log4jRequestHandler#void"
+273 "com.klopotek.utils.log.JDBCLogger.con"
+274 "org.apache.log4j.net.DatagramStringWriter.DatagramStringWriter@String#void"
+275 "org.apache.log4j.xml.examples.XPriority.TRACE_INT"
+276 "com.psibt.framework.net.PluggableHTTPServer.handler"
+277 "org.apache.log4j.gui.LogTextPanel.eventViewIndex"
+278 "NO_NAME.MyConnectionHandler.url"
+279 "org.apache.log4j.test.Shallow.main@String#void"
+280 "org.apache.log4j.Hierarchy.Hierarchy@Category#void"
+281 "org.apache.log4j.Priority.toInt#int"
+282 "org.apache.log4j.test.UnitTestOptionConverter.varSubstTest1#void"
+283 "org.apache.log4j.test.StressAsyncAppender.LOOP_LENGTH"
+284 "org.apache.log4j.helpers.FormattingInfo.min"
+285 "org.apache.log4j.helpers.DateLayout.NULL_DATE_FORMAT"
+286 "org.apache.log4j.gui.TextPanelAppender.LogPublishingThread.LogPublishingThread@LogTextPanel@Priority@long#void"
+287 "org.apache.log4j.helpers.SyslogQuietWriter.SyslogQuietWriter@Writer@int@ErrorHandler#void"
+288 "org.apache.log4j.helpers.FormattingInfo.max"
+289 "org.apache.log4j.net.DatagramStringWriter.SYSLOG_PORT"
+290 "org.apache.log4j.test.DefaultInit.Usage@String#void"
+291 "org.apache.log4j.test.StressAsyncAppender.LOG_2"
+292 "org.apache.log4j.helpers.CyclicBuffer.getMaxSize#int"
+293 "NO_NAME.LoggingOutputStream.reset#void"
+294 "org.apache.log4j.test.UnitTestCyclicBuffer.doTestResize@int@int@int#void"
+295 "NO_NAME.LoggingOutputStream.count"
+296 "org.apache.log4j.test.StressNDC.randomID#String"
+297 "com.psibt.framework.net.RootRequestHandler.ReplyType"
+298 "org.apache.log4j.xml.examples.ReportParserError.warning@org.xml.sax.SAXParseException#void"
+299 "org.apache.log4j.gui.LogTextPanel.setTextBackground@String#void"
+300 "org.apache.log4j.performance.NewVsSetLen.bigbuf"
+301 "org.apache.log4j.config.PropertySetter.convertArg@String@Class#Object"
+302 "org.apache.log4j.test.StressAsyncAppender.createChildren@int#void"
+303 "org.apache.log4j.performance.ListVsVector.Chain.setNext@Chain#void"
+304 "org.apache.log4j.net.DatagramStringWriter.ds"
+305 "com.psibt.framework.net.PluggableHTTPServer.run#void"
+306 "org.apache.log4j.helpers.PatternParser.LINE_LOCATION_CONVERTER"
+307 "org.apache.log4j.net.JMSSink.usage@String#void"
+308 "com.klopotek.utils.log.JDBCAppender.finalize#void"
+309 "org.apache.log4j.Priority.INFO_INT"
+310 "com.klopotek.utils.log.JDBCAppender.ready"
+311 "org.apache.log4j.helpers.SyslogQuietWriter.priority"
+312 "org.apache.log4j.varia.PriorityRangeFilter.decide@LoggingEvent#int"
+313 "org.apache.log4j.varia.JDBCAppender.buffer"
+314 "org.apache.log4j.net.DatagramStringAppender.DEFAULT_PORT"
+315 "org.apache.log4j.test.PatternTest.init@String#void"
+316 "org.apache.log4j.varia.JDBCAppender.URL_OPTION"
+317 "com.klopotek.utils.log.LogColumn.type"
+318 "org.apache.log4j.gui.LogTextPanel.doc"
+319 "org.apache.log4j.test.StressNDC.root"
+320 "com.psibt.framework.net.HTTPRequestHandler.setHandledPath@String#void"
+321 "org.apache.log4j.net.JMSAppender.getTopicBindingName#String"
+322 "org.apache.log4j.gui.TextPanelAppender.getOptionStrings#String"
+323 "org.apache.log4j.gui.TextPanelAppender.TextPanelAppender@Layout@String#void"
+324 "org.apache.log4j.TempFileAppender.suffix"
+325 "org.apache.log4j.performance.NewVsSetLen.BIGBUF_LEN"
+326 "org.apache.log4j.nt.test.NTMin.Usage@String#void"
+327 "org.apache.log4j.examples.SortAlgo.SortAlgo@int[]#void"
+328 "org.apache.log4j.net.test.SyslogMin.main@String#void"
+329 "org.apache.log4j.HTMLLayout.title"
+330 "com.klopotek.utils.log.JDBCAppender.setOption@String@String#void"
+331 "org.apache.log4j.net.JMSAppender.topicConnection"
+332 "org.apache.log4j.helpers.FormattingInfo.leftAlign"
+333 "org.apache.log4j.xml.DC.startPrefixMapping@String@String#void"
+334 "org.apache.log4j.xml.examples.XCategory.factory"
+335 "org.apache.log4j.test.ShippedCodeFlagTest.main@String#void"
+336 "org.apache.log4j.varia.PriorityRangeFilter.setPriorityMax@Priority#void"
+337 "org.apache.log4j.helpers.LogLog.debug@String@Throwable#void"
+338 "org.apache.log4j.test.StressNDC.LOOP_LENGTH"
+339 "org.apache.log4j.Priority.toPriority@int@Priority#Priority"
+340 "com.psibt.framework.net.RootRequestHandler.setTitle@String#void"
+341 "org.apache.log4j.performance.ListVsVector.loopChain#double"
+342 "com.klopotek.utils.log.JDBCLogger.isconfigured"
+343 "org.apache.log4j.xml.examples.ReportParserError.fatalError@org.xml.sax.SAXParseException#void"
+344 "org.apache.log4j.helpers.DateTimeDateFormat.DateTimeDateFormat#void"
+345 "org.apache.log4j.helpers.Loader.resolveName@String@Class#String"
+346 "com.klopotek.utils.log.LogColumn.name"
+347 "org.apache.log4j.xml.Transform.main@String#void"
+348 "org.apache.log4j.gui.TextPanelAppender.setOption@String@String#void"
+349 "org.apache.log4j.helpers.SingleLineTracerPrintWriter.println@Object#void"
+350 "org.apache.log4j.test.UnitTestCyclicBuffer.cat"
+351 "org.apache.log4j.test.Base64.toString@byte[]#String"
+352 "com.psibt.framework.net.PluggableHTTPServer.PluggableHTTPServer#void"
+353 "org.apache.log4j.spi.ThrowableInformation.throwable"
+354 "org.apache.log4j.RollingFileAppender.setMaximumFileSize@long#void"
+355 "org.apache.log4j.helpers.QuietWriter.errorHandler"
+356 "org.apache.log4j.helpers.DateLayout.pos"
+357 "org.apache.log4j.performance.NOPWriter.close#void"
+358 "org.apache.log4j.net.DatagramStringWriter.flush#void"
+359 "org.apache.log4j.UnitTestDRFA.suite#Test"
+360 "org.apache.log4j.performance.SystemTime.currentThreadNameloop#double"
+361 "org.apache.log4j.ProvisionNode.ProvisionNode@Category#void"
+362 "org.apache.log4j.net.test.SocketMin.init@String@String#void"
+363 "com.klopotek.utils.log.JDBCAppender.CONNECTOR_OPTION"
+364 "org.apache.log4j.helpers.PatternParser.extractPrecisionOption#int"
+365 "org.apache.log4j.performance.Logging.cat"
+366 "org.apache.log4j.test.UnitTestCyclicBuffer.test0#void"
+367 "com.psibt.framework.net.PluggableHTTPServer.server"
+368 "org.apache.log4j.RollingFileAppender.subAppend@LoggingEvent#void"
+369 "com.psibt.framework.net.RootRequestHandler.setDescription@String#void"
+370 "com.psibt.framework.net.RootRequestHandler.setHandledPath@String#void"
+371 "org.apache.log4j.test.StressAsyncAppender.threadCounter"
+372 "org.apache.log4j.performance.SystemTime.RUN_LENGTH"
+373 "org.apache.log4j.spi.ErrorCode.FLUSH_FAILURE"
+374 "org.apache.log4j.xml.examples.XCategory.SUFFIX_OPTION"
+375 "org.apache.log4j.test.StressAsyncAppender.randomInt@int#int"
+376 "org.apache.log4j.RollingFileAppender.getOptionStrings#String"
+377 "org.apache.log4j.helpers.PatternConverter.PatternConverter@FormattingInfo#void"
+378 "org.apache.log4j.examples.MyCategory.getInstance@String#Category"
+379 "org.apache.log4j.test.PatternTest.Usage@String#void"
+380 "org.apache.log4j.StressCategory.names"
+381 "org.apache.log4j.helpers.PatternParser.NamedPatternConverter.precision"
+382 "org.apache.log4j.net.SyslogAppender.activateOptions#void"
+383 "org.apache.log4j.net.test.SMTPMin.usage@String#void"
+384 "org.apache.log4j.xml.DC.characters@char[]@int@int#void"
+385 "org.apache.log4j.xml.examples.XCategory.trace@String#void"
+386 "org.apache.log4j.gui.TextPanelAppender.LogPublishingThread.publishEvent@Priority@String#void"
+387 "org.apache.log4j.helpers.SyslogWriter.syslogHost"
+388 "com.psibt.framework.net.UserDialogRequestHandler.UserDialogRequestHandler@Component#void"
+389 "org.apache.log4j.StressCategory.getExpectedPrioriy@CT#Priority"
+390 "org.apache.log4j.net.SyslogAppender.LOG_KERN"
+391 "com.klopotek.utils.log.LogType.MSG"
+392 "org.apache.log4j.gui.TextPanelAppender.getLogTextPanel#JPanel"
+393 "org.apache.log4j.gui.TextPanelAppender.COLOR_OPTION_WARN"
+394 "org.apache.log4j.net.DatagramStringWriter.prefix"
+395 "org.apache.log4j.test.StressAsyncAppender.msgCounter"
+396 "com.klopotek.utils.log.LogColumn.ignore"
+397 "org.apache.log4j.test.SocketAppenderTest.usage@String#void"
+398 "org.apache.log4j.spi.LocationInfo.NA"
+399 "org.apache.log4j.helpers.LogLog.CONFIG_DEBUG_KEY"
+400 "NO_NAME.LoggingOutputStream.hasBeenClosed"
+401 "NO_NAME.LoggingOutputStream.write@int#void"
+402 "org.apache.log4j.helpers.PatternParser.LiteralPatternConverter.LiteralPatternConverter@String#void"
+403 "org.apache.log4j.helpers.DateLayout.timeZoneID"
+404 "com.klopotek.utils.log.JDBCConnectionHandler.getConnection#Connection"
+405 "org.apache.log4j.performance.NotLogging.runLength"
+406 "NO_NAME.LoggingOutputStream.LoggingOutputStream@Category@Priority#void"
+407 "org.apache.log4j.HTMLLayout.getContentType#String"
+408 "org.apache.log4j.xml.examples.ReportParserError.report@String@org.xml.sax.SAXParseException#void"
+409 "org.apache.log4j.examples.MyCategory.myFactory"
+410 "org.apache.log4j.helpers.PatternParser.DatePatternConverter.df"
+411 "org.apache.log4j.xml.examples.XCategory.XFactory.XFactory#void"
+412 "org.apache.log4j.net.SyslogAppender.LOG_LOCAL7"
+413 "NO_NAME.MyConnectionHandler.con"
+414 "org.apache.log4j.helpers.PatternParser.addConverter@PatternConverter#void"
+415 "org.apache.log4j.xml.examples.XTest.Usage@String#void"
+416 "org.apache.log4j.DefaultCategoryFactory.makeNewCategoryInstance@String#Category"
+417 "org.apache.log4j.helpers.PatternParser.MAX_STATE"
+418 "org.apache.log4j.test.Min.main@String#void"
+419 "org.apache.log4j.xml.DC.skippedEntity@String#void"
+420 "org.apache.log4j.varia.PriorityRangeFilter.PRIORITY_MAX_OPTION"
+421 "org.apache.log4j.TempFileAppender.subAppend@LoggingEvent#void"
+422 "org.apache.log4j.HTMLLayout.TRACE_PREFIX"
+423 "org.apache.log4j.net.DatagramStringWriter.DatagramStringWriter@String@int@String#void"
+424 "org.apache.log4j.HTMLLayout.appendThrowableAsHTML@String@StringBuffer#void"
+425 "org.apache.log4j.test.UnitTestOptionConverter.toPriorityTest2#void"
+426 "org.apache.log4j.net.JMSAppender.TOPIC_CONNECTION_FACTORY_BINDING_NAME_OPTION"
+427 "org.apache.log4j.spi.VectorWriter.toStringArray#String"
+428 "com.klopotek.utils.log.JDBCAppender.TABLE_OPTION"
+429 "org.apache.log4j.gui.LogTextPanel.scrollBar"
+430 "org.apache.log4j.varia.JDBCAppender.append@LoggingEvent#void"
+431 "org.apache.log4j.helpers.LogLog.DEBUG_KEY"
+432 "org.apache.log4j.net.DatagramStringAppender.DatagramStringAppender@Layout@String@int@String#void"
+433 "org.apache.log4j.helpers.PatternParser.tail"
+434 "org.apache.log4j.gui.TextPanelAppender.setLogTextPanel@LogTextPanel#void"
+435 "org.apache.log4j.varia.PriorityRangeFilter.getOptionStrings#String"
+436 "org.apache.log4j.test.DefaultInit.main@String#void"
+437 "org.apache.log4j.gui.TextPanelAppender.LogPublishingThread.evts"
+438 "org.apache.log4j.TempFileAppender.TempFileAppender#void"
+439 "org.apache.log4j.helpers.PatternParser.CONVERTER_STATE"
+440 "org.apache.log4j.test.Min.ProgramInit@String#void"
+441 "org.apache.log4j.helpers.PatternParser.CategoryPatternConverter.CategoryPatternConverter@FormattingInfo@int#void"
+442 "org.apache.log4j.examples.SortAlgo.OUTER"
+443 "org.apache.log4j.xml.examples.XMLSample.cat"
+444 "org.apache.log4j.RollingFileAppender.MAX_FILE_SIZE_OPTION"
+445 "org.apache.log4j.xml.DC.startElement@String@String@String@Attributes#void"
+446 "org.apache.log4j.varia.JDBCAppender.USER_OPTION"
+447 "org.apache.log4j.test.CategoryWrapper.main@String#void"
+448 "org.apache.log4j.test.ROFile.cat"
+449 "org.apache.log4j.net.DatagramStringAppender.activateOptions#void"
+450 "com.psibt.framework.net.Log4jRequestHandler.prios"
+451 "org.apache.log4j.performance.NotLogging.INEXISTENT_MEDIUM_CAT"
+452 "org.apache.log4j.helpers.SyslogWriter.SYSLOG_PORT"
+453 "org.apache.log4j.helpers.CyclicBuffer.maxSize"
+454 "org.apache.log4j.gui.LogTextPanel.setEventBufferSize@int#void"
+455 "org.apache.log4j.net.test.Loop.main@String#void"
+456 "org.apache.log4j.helpers.SingleLineTracerPrintWriter.TAB"
+457 "org.apache.log4j.net.test.SocketMin.s"
+458 "org.apache.log4j.config.PropertySetter.setProperty@String@String#void"
+459 "org.apache.log4j.net.DatagramStringAppender.setLayout@Layout#void"
+460 "org.apache.log4j.test.UnitTestOptionConverter.toPriorityTest1#void"
+461 "org.apache.log4j.varia.PriorityRangeFilter.setOption@String@String#void"
+462 "org.apache.log4j.test.Base64.charEnc"
+463 "org.apache.log4j.spi.NullWriter.flush#void"
+464 "org.apache.log4j.performance.Logging.burstLen"
+465 "org.apache.log4j.RollingFileAppender.RollingFileAppender@Layout@String@boolean#void"
+466 "org.apache.log4j.UnitTestDRFA.testRC1#void"
+467 "org.apache.log4j.spi.ErrorCode.ADDRESS_PARSE_FAILURE"
+468 "org.apache.log4j.TempFileAppender.checkEntryConditions#boolean"
+469 "org.apache.log4j.helpers.LogLog.PREFIX"
+470 "org.apache.log4j.CategoryKey.hashCache"
+471 "org.apache.log4j.HTMLLayout.TITLE_OPTION"
+472 "org.apache.log4j.test.StressAsyncAppender.usage#void"
+473 "org.apache.log4j.helpers.DateLayout.setDateFormat@String#void"
+474 "org.apache.log4j.net.JMSAppender.setOption@String@String#void"
+475 "org.apache.log4j.net.SyslogAppender.LOG_LOCAL6"
+476 "org.apache.log4j.net.test.SyslogMin.test@String#void"
+477 "org.apache.log4j.Priority.INFO"
+478 "com.klopotek.utils.log.JDBCLogger.isConnected#boolean"
+479 "org.apache.log4j.net.DatagramStringAppender.encoding"
+480 "org.apache.log4j.helpers.CyclicBuffer.first"
+481 "com.klopotek.utils.log.JDBCAppender.BUFFER_OPTION"
+482 "org.apache.log4j.examples.NumberCruncherServer.NumberCruncherServer#void"
+483 "com.klopotek.utils.log.JDBCConnectionHandler.getConnection@String@String@String#Connection"
+484 "org.apache.log4j.Priority.toPriority@String#Priority"
+485 "org.apache.log4j.performance.SystemTime.main@String#void"
+486 "com.klopotek.utils.log.JDBCAppender.docommit"
+487 "org.apache.log4j.xml.DC.ignorableWhitespace@char[]@int@int#void"
+488 "NO_NAME.LoggingOutputStream.close#void"
+489 "org.apache.log4j.RollingFileAppender.setMaxBackupIndex@int#void"
+490 "org.apache.log4j.net.SyslogAppender.setSyslogHost@String#void"
+491 "org.apache.log4j.performance.NewVsSetLen.main@String#void"
+492 "org.apache.log4j.performance.NotLogging.INEXISTENT_LONG_CAT"
+493 "org.apache.log4j.test.CategoryWrapper.FQCN"
+494 "org.apache.log4j.varia.JDBCAppender.requiresLayout#boolean"
+495 "org.apache.log4j.xml.DC.setDocumentLocator@Locator#void"
+496 "org.apache.log4j.xml.examples.XCategory.activateOptions#void"
+497 "org.apache.log4j.examples.MyPatternLayout.MyPatternLayout#void"
+498 "com.psibt.framework.net.PluggableHTTPServer.cat"
+499 "org.apache.log4j.test.StressAsyncAppender.run#void"
+500 "org.apache.log4j.performance.NotLogging.main@String#void"
+501 "org.apache.log4j.xml.examples.XTest.main@String#void"
+502 "org.apache.log4j.gui.examples.LogFrame.LogFrame@TextPanelAppender#void"
+503 "org.apache.log4j.helpers.PatternParser.BasicPatternConverter.type"
+504 "org.apache.log4j.examples.MyPatternParser.finalizeConverter@char#void"
+505 "org.apache.log4j.test.PatternTest.CAT"
+506 "org.apache.log4j.spi.LocationInfo.getClassName#String"
+507 "com.klopotek.utils.log.JDBCAppender.table"
+508 "org.apache.log4j.helpers.SyslogQuietWriter.setSyslogFacility@int#void"
+509 "org.apache.log4j.test.AsyncAppenderTest.init@String@String#void"
+510 "com.psibt.framework.net.RootRequestHandler.getReplyHTML#String"
+511 "org.apache.log4j.helpers.PatternParser.LiteralPatternConverter.literal"
+512 "com.klopotek.utils.log.JDBCAppender.buffer"
+513 "org.apache.log4j.helpers.PatternParser.LiteralPatternConverter.convert@LoggingEvent#String"
+514 "org.apache.log4j.examples.MyCategory.MyCategory@String#void"
+515 "org.apache.log4j.examples.SortAlgo.className"
+516 "org.apache.log4j.test.ShortSocketServer.usage@String#void"
+517 "org.apache.log4j.helpers.PatternParser.PRIORITY_CONVERTER"
+518 "org.apache.log4j.helpers.PatternParser.METHOD_LOCATION_CONVERTER"
+519 "org.apache.log4j.net.JMSAppender.topicSession"
+520 "com.psibt.framework.net.PluggableHTTPServer.removeRequestHandler@HTTPRequestHandler#void"
+521 "org.apache.log4j.gui.TextPanelAppender.FONT_SIZE_OPTION"
+522 "org.apache.log4j.net.JMSAppender.activateOptions#void"
+523 "org.apache.log4j.xml.test.DisableOverrideTest.CAT"
+524 "org.apache.log4j.test.UnitTestCyclicBuffer.UnitTestCyclicBuffer@String#void"
+525 "org.apache.log4j.test.CategoryWrapper.print@String#void"
+526 "org.apache.log4j.performance.NotLogging.ProgramInit@String#void"
+527 "org.apache.log4j.xml.test.DisableOverrideTest.Usage@String#void"
+528 "org.apache.log4j.gui.EventBufferElement.text"
+529 "com.klopotek.utils.log.JDBCAppender.URL_OPTION"
+530 "org.apache.log4j.spi.LocationInfo.fileName"
+531 "org.apache.log4j.RollingFileAppender.getMaximumFileSize#long"
+532 "org.apache.log4j.varia.PriorityRangeFilter.priorityMin"
+533 "org.apache.log4j.config.PropertySetter.activate#void"
+534 "org.apache.log4j.net.JMSSink.main@String#void"
+535 "org.apache.log4j.helpers.AbsoluteTimeDateFormat.format@Date@StringBuffer@FieldPosition#StringBuffer"
+536 "org.apache.log4j.Hierarchy.getRoot#Category"
+537 "org.apache.log4j.net.JMSAppender.lookup@Context@String#Object"
+538 "org.apache.log4j.test.StressNDC.createChildren@int#void"
+539 "org.apache.log4j.StressCategory.permutationDump#void"
+540 "org.apache.log4j.net.DatagramStringAppender.setDestination@String@int@String#void"
+541 "org.apache.log4j.helpers.DateTimeDateFormat.DateTimeDateFormat@TimeZone#void"
+542 "org.apache.log4j.HTMLLayout.setOption@String@String#void"
+543 "org.apache.log4j.gui.EventBufferElement.numLines"
+544 "org.apache.log4j.test.UnitTestOptionConverter.toPriorityTest3#void"
+545 "org.apache.log4j.helpers.CyclicBuffer.CyclicBuffer@int#void"
+546 "org.apache.log4j.performance.NewVsSetLen.sbuf"
+547 "org.apache.log4j.spi.LocationInfo.inVisualAge"
+548 "org.apache.log4j.helpers.RelativeTimeDateFormat.startTime"
+549 "org.apache.log4j.RollingFileAppender.setQWForFiles@Writer#void"
+550 "com.psibt.framework.net.UserDialogRequestHandler.handleRequest@String@Writer#boolean"
+551 "org.apache.log4j.helpers.PatternConverter.PatternConverter#void"
+552 "org.apache.log4j.net.test.SocketMin.usage@String#void"
+553 "org.apache.log4j.gui.TextPanelAppender.LogPublishingThread.logTextPanel"
+554 "org.apache.log4j.helpers.PatternParser.THREAD_CONVERTER"
+555 "org.apache.log4j.spi.VectorWriter.println@char[]#void"
+556 "org.apache.log4j.helpers.SyslogQuietWriter.syslogFacility"
+557 "org.apache.log4j.TempFileAppender.dir"
+558 "org.apache.log4j.net.SyslogAppender.setOption@String@String#void"
+559 "org.apache.log4j.examples.NumberCruncherServer.main@String#void"
+560 "org.apache.log4j.net.SyslogAppender.LOG_SYSLOG"
+561 "org.apache.log4j.varia.PriorityRangeFilter.getPriorityMin#Priority"
+562 "org.apache.log4j.helpers.PatternParser.LiteralPatternConverter.format@StringBuffer@LoggingEvent#void"
+563 "org.apache.log4j.net.JMSAppender.topicPublisher"
+564 "com.klopotek.utils.log.JDBCAppender.getOptionStrings#String"
+565 "org.apache.log4j.net.SyslogAppender.LOG_LOCAL2"
+566 "org.apache.log4j.test.StressAsyncAppender.random"
+567 "org.apache.log4j.helpers.CountingQuietWriter.setCount@long#void"
+568 "org.apache.log4j.examples.MyCategory.usage@String#void"
+569 "org.apache.log4j.net.SyslogAppender.LOG_LOCAL4"
+570 "org.apache.log4j.Hierarchy.overrideAsNeeded@String#void"
+571 "org.apache.log4j.xml.examples.XTest.init@String#void"
+572 "org.apache.log4j.test.UnitTestOptionConverter.props"
+573 "com.klopotek.utils.log.JDBCAppender.COLUMNS_OPTION"
+574 "org.apache.log4j.config.PropertySetter.props"
+575 "org.apache.log4j.helpers.PatternConverter.min"
+576 "org.apache.log4j.examples.MyCategory.debug@String#void"
+577 "org.apache.log4j.StressCategory.ct"
+578 "org.apache.log4j.helpers.ISO8601DateFormat.ISO8601DateFormat@TimeZone#void"
+579 "org.apache.log4j.net.SyslogAppender.LOG_AUTHPRIV"
+580 "org.apache.log4j.net.JMSAppender.requiresLayout#boolean"
+581 "org.apache.log4j.spi.Configurator.doConfigure@URL@Hierarchy#void"
+582 "org.apache.log4j.performance.ListVsVector.main@String#void"
+583 "com.klopotek.utils.log.JDBCAppender.USERNAME_OPTION"
+584 "org.apache.log4j.config.PropertySetter.setProperty@PropertyDescriptor@String@String#void"
+585 "org.apache.log4j.xml.examples.XPriority.XPriority@int@String@int#void"
+586 "org.apache.log4j.RollingFileAppender.MAX_BACKUP_INDEX_OPTION"
+587 "org.apache.log4j.StressCategory.CT.catstr"
+588 "org.apache.log4j.Priority.WARN"
+589 "org.apache.log4j.helpers.SyslogWriter.ds"
+590 "org.apache.log4j.xml.examples.XPriority.LETHAL"
+591 "org.apache.log4j.performance.Logging.NoDelayLoop@Category@String#double"
+592 "org.apache.log4j.net.DatagramStringAppender.host"
+593 "com.klopotek.utils.log.JDBCLogger.configureSQL@String#void"
+594 "org.apache.log4j.varia.JDBCAppender.databasePassword"
+595 "org.apache.log4j.helpers.PatternParser.addToList@PatternConverter#void"
+596 "com.klopotek.utils.log.JDBCAppender.SQL_OPTION"
+597 "org.apache.log4j.test.Shallow.cat"
+598 "NO_NAME.LoggingOutputStream.buf"
+599 "org.apache.log4j.spi.NullWriter.close#void"
+600 "org.apache.log4j.helpers.PatternConverter.spacePad@StringBuffer@int#void"
+601 "org.apache.log4j.Hierarchy.DISABLE_OVERRIDE"
+602 "com.klopotek.utils.log.JDBCLogger.logcols"
+603 "org.apache.log4j.gui.examples.LogTextPanelExample.catName"
+604 "com.psibt.framework.net.PluggableHTTPServer.ServerThread.ServerThread@Socket#void"
+605 "org.apache.log4j.net.SocketNode.socket"
+606 "org.apache.log4j.net.SyslogAppender.getFacility@String#int"
+607 "com.klopotek.utils.log.JDBCAppender.jlogger"
+608 "org.apache.log4j.helpers.DateLayout.setTimeZone@String#void"
+609 "org.apache.log4j.net.SocketNode.cat"
+610 "org.apache.log4j.Priority.DEBUG_INT"
+611 "org.apache.log4j.test.ROFile.Usage@String#void"
+612 "org.apache.log4j.xml.examples.XCategory.getInstance@String#Category"
+613 "org.apache.log4j.HTMLLayout.BUF_SIZE"
+614 "com.psibt.framework.net.Log4jRequestHandler.handleRequest@String@Writer#boolean"
+615 "org.apache.log4j.net.JMSAppender.setTopicBindingName@String#void"
+616 "org.apache.log4j.gui.examples.LogTextPanelExampleGenThread.catName"
+617 "org.apache.log4j.test.StressNDC.PUSH_MISS"
+618 "org.apache.log4j.test.UnitTestCyclicBuffer.testResize#void"
+619 "org.apache.log4j.test.Min.test1#void"
+620 "com.klopotek.utils.log.JDBCLogger.sql"
+621 "org.apache.log4j.net.test.SMTPMin.init@String#void"
+622 "com.klopotek.utils.log.JDBCLogger.ready"
+623 "com.psibt.framework.net.PluggableHTTPServer.ServerThread.connection"
+624 "org.apache.log4j.helpers.DateTimeDateFormat.format@Date@StringBuffer@FieldPosition#StringBuffer"
+625 "org.apache.log4j.Priority.WARN_INT"
+626 "org.apache.log4j.test.SocketAppenderTest.delay@int#void"
+627 "org.apache.log4j.test.UnitTestOptionConverter.varSubstTest3#void"
+628 "org.apache.log4j.net.DatagramStringAppender.DatagramStringAppender@Layout@String@int#void"
+629 "org.apache.log4j.net.SyslogAppender.getSyslogHost#String"
+630 "org.apache.log4j.examples.Trivial.InnerTrivial.cat"
+631 "org.apache.log4j.test.Min.Usage@String#void"
+632 "com.psibt.framework.net.HTTPRequestHandler.setDescription@String#void"
+633 "org.apache.log4j.helpers.RelativeTimeDateFormat.parse@java.lang.String@ParsePosition#Date"
+634 "org.apache.log4j.test.StressNDC.usage#void"
+635 "org.apache.log4j.performance.ListVsVector.head"
+636 "org.apache.log4j.Hierarchy.ht"
+637 "org.apache.log4j.HTMLLayout.escapeHTMLTags@String#String"
+638 "org.apache.log4j.varia.PriorityRangeFilter.acceptOnMatch"
+639 "NO_NAME.LoggingOutputStream.bufLength"
+640 "org.apache.log4j.StressCategory.checkCorrectness@int#boolean"
+641 "org.apache.log4j.spi.VectorWriter.clear#void"
+642 "org.apache.log4j.helpers.SyslogWriter.SyslogWriter@String#void"
+643 "org.apache.log4j.test.Base64.asciiEncoding"
+644 "org.apache.log4j.net.test.SMTPMin.cat"
+645 "org.apache.log4j.gui.TextPanelAppender.logTextPanel"
+646 "org.apache.log4j.helpers.LogLog.WARN_PREFIX"
+647 "org.apache.log4j.examples.SortAlgo.INNER"
+648 "org.apache.log4j.helpers.CountingQuietWriter.count"
+649 "org.apache.log4j.Priority.level"
+650 "org.apache.log4j.examples.SortAlgo.SWAP"
+651 "com.psibt.framework.net.PluggableHTTPServer.PluggableHTTPServer@int#void"
+652 "org.apache.log4j.helpers.RelativeTimeDateFormat.format@Date@StringBuffer@FieldPosition#StringBuffer"
+653 "org.apache.log4j.net.SyslogAppender.LOG_MAIL"
+654 "org.apache.log4j.helpers.PatternConverter.max"
+655 "org.apache.log4j.test.StressNDC.maxThreadsConstained@int#int"
+656 "org.apache.log4j.helpers.NullEnumeration.instance"
+657 "org.apache.log4j.config.PropertySetterException.getMessage#String"
+658 "org.apache.log4j.HTMLLayout.getHeader#String"
+659 "com.klopotek.utils.log.JDBCAppender.sql"
+660 "org.apache.log4j.gui.TextPanelAppender.COLOR_OPTION_BACKGROUND"
+661 "org.apache.log4j.StressCategory.defaultPriority"
+662 "org.apache.log4j.helpers.PatternParser.CategoryPatternConverter.getFullyQualifiedName@LoggingEvent#String"
+663 "org.apache.log4j.helpers.SyslogWriter.write@String#void"
+664 "org.apache.log4j.TempFileAppender.close#void"
+665 "org.apache.log4j.test.AsyncAppenderTest.test#void"
+666 "org.apache.log4j.config.PropertySetterException.PropertySetterException@Throwable#void"
+667 "org.apache.log4j.helpers.LogLog.warn@String@Throwable#void"
+668 "org.apache.log4j.helpers.QuietWriter.setErrorHandler@ErrorHandler#void"
+669 "org.apache.log4j.xml.examples.XCategory.debug@String#void"
+670 "org.apache.log4j.net.JMSAppender.close#void"
+671 "org.apache.log4j.examples.NumberCruncherClient.main@String#void"
+672 "org.apache.log4j.helpers.DateLayout.getDateFormat#String"
+673 "com.klopotek.utils.log.JDBCAppender.append@LoggingEvent#void"
+674 "NO_NAME.Log4JTest.main@String#void"
+675 "org.apache.log4j.net.SyslogAppender.LOG_NEWS"
+676 "org.apache.log4j.performance.NotLogging.INEXISTENT_SHORT_CAT"
+677 "NO_NAME.Log4JTest.cat"
+678 "org.apache.log4j.helpers.CyclicBuffer.get@int#LoggingEvent"
+679 "org.apache.log4j.performance.ListVsVector.v"
+680 "org.apache.log4j.helpers.CountingQuietWriter.write@String#void"
+681 "org.apache.log4j.performance.NotLogging.LONG_CAT"
+682 "org.apache.log4j.performance.Logging.init@String@String@String@String#void"
+683 "org.apache.log4j.helpers.AbsoluteTimeDateFormat.AbsoluteTimeDateFormat@TimeZone#void"
+684 "org.apache.log4j.Priority.getSyslogEquivalent#int"
+685 "org.apache.log4j.performance.NewVsSetLen.setLen@int@int#double"
+686 "org.apache.log4j.varia.JDBCAppender.close#void"
+687 "org.apache.log4j.helpers.PatternParser.finalizeConverter@char#void"
+688 "org.apache.log4j.net.SyslogAppender.append@LoggingEvent#void"
+689 "org.apache.log4j.gui.examples.LogFrame.processWindowEvent@WindowEvent#void"
+690 "org.apache.log4j.helpers.PatternParser.DatePatternConverter.date"
+691 "org.apache.log4j.helpers.CyclicBuffer.ea"
+692 "org.apache.log4j.xml.examples.XCategory.setOption@String@String#void"
+693 "org.apache.log4j.spi.LocationInfo.LocationInfo@Throwable@String#void"
+694 "org.apache.log4j.xml.examples.XCategory.FQCN"
+695 "org.apache.log4j.xml.examples.XPriority.TRACE"
+696 "com.klopotek.utils.log.JDBCLogger.setLogType@String@int@Object#void"
+697 "org.apache.log4j.nt.test.NTMin.main@String#void"
+698 "org.apache.log4j.spi.CategoryFactory.makeNewCategoryInstance@String#Category"
+699 "org.apache.log4j.helpers.DateLayout.date"
+700 "org.apache.log4j.test.AsyncAppenderTest.usage@String#void"
+701 "org.apache.log4j.RollingFileAppender.getMaxBackupIndex#int"
+702 "com.klopotek.utils.log.DefaultConnectionHandler.getConnection#Connection"
+703 "org.apache.log4j.spi.ThrowableInformation.rep"
+704 "org.apache.log4j.performance.ListVsVector.RUN_LENGTH"
+705 "org.apache.log4j.test.Base64.main@String#void"
+706 "com.klopotek.utils.log.JDBCAppender.username"
+707 "org.apache.log4j.test.ROFile.test#void"
+708 "org.apache.log4j.varia.JDBCAppender.bufferSize"
+709 "org.apache.log4j.helpers.CountingQuietWriter.getCount#long"
+710 "org.apache.log4j.helpers.DateLayout.activateOptions#void"
+711 "org.apache.log4j.test.ShortSocketServer.main@String#void"
+712 "org.apache.log4j.xml.examples.XCategory.trace@String@Throwable#void"
+713 "org.apache.log4j.HTMLLayout.format@LoggingEvent#String"
+714 "org.apache.log4j.helpers.DateLayout.getTimeZone#String"
+715 "org.apache.log4j.helpers.PatternConverter.next"
+716 "org.apache.log4j.net.JMSAppender.topicBindingName"
+717 "org.apache.log4j.helpers.PatternParser.FILE_LOCATION_CONVERTER"
+718 "com.klopotek.utils.log.JDBCAppender.ready#boolean"
+719 "com.klopotek.utils.log.JDBCAppender.connectionHandler"
+720 "com.klopotek.utils.log.JDBCAppender.connect#void"
+721 "org.apache.log4j.helpers.RelativeTimeDateFormat.RelativeTimeDateFormat#void"
+722 "org.apache.log4j.spi.NullWriter.write@char[]@int@int#void"
+723 "org.apache.log4j.varia.PriorityRangeFilter.setAcceptOnMatch@boolean#void"
+724 "org.apache.log4j.gui.TextPanelAppender.requiresLayout#boolean"
+725 "org.apache.log4j.CategoryKey.name"
+726 "org.apache.log4j.test.StressAsyncAppender.BRANCHING_FACTOR"
+727 "org.apache.log4j.xml.test.SubClassTest.init@String#void"
+728 "com.klopotek.utils.log.LogColumn.isWritable"
+729 "com.klopotek.utils.log.JDBCIDHandler.getID#Object"
+730 "com.psibt.framework.net.UserDialogRequestHandler.DialogThread.DialogThread@Component@String#void"
+731 "org.apache.log4j.UnitTestDRFA.testComputeCheckPeriod#void"
+732 "org.apache.log4j.StressCategory.createLoop@int#void"
+733 "org.apache.log4j.spi.LocationInfo.getLineNumber#String"
+734 "org.apache.log4j.varia.PriorityRangeFilter.setPriorityMin@Priority#void"
+735 "..NAME_ERROR#VOID"
+736 "org.apache.log4j.config.PropertySetter.setProperties@Object@Properties@String#void"
+737 "org.apache.log4j.RollingFileAppender.setMaxFileSize@String#void"
+738 "org.apache.log4j.helpers.SingleLineTracerPrintWriter.SingleLineTracerPrintWriter@QuietWriter#void"
+739 "org.apache.log4j.HTMLLayout.getTitle#String"
+740 "org.apache.log4j.performance.Logging.delay"
+741 "org.apache.log4j.spi.ErrorCode.MISSING_LAYOUT"
+742 "org.apache.log4j.gui.LogTextPanel.cbxTail"
+743 "org.apache.log4j.helpers.PatternParser.state"
+744 "org.apache.log4j.performance.ListVsVector.tmp"
+745 "org.apache.log4j.examples.SortAlgo.DUMP"
+746 "org.apache.log4j.gui.EventBufferElement.EventBufferElement@Priority@String#void"
+747 "org.apache.log4j.helpers.PatternParser.patternLength"
+748 "org.apache.log4j.test.Base64.toString@byte[]@int@int#String"
+749 "org.apache.log4j.examples.MyCategory.main@String#void"
+750 "com.psibt.framework.net.RootRequestHandler.RootRequestHandler#void"
+751 "org.apache.log4j.xml.test.DOMTest.cat"
+752 "org.apache.log4j.config.PropertySetter.introspect#void"
+753 "org.apache.log4j.helpers.Loader.TSTR"
+754 "org.apache.log4j.spi.ThrowableInformation.getThrowableStrRep#String"
+755 "org.apache.log4j.gui.TextPanelAppender.COLOR_OPTION_FATAL"
+756 "org.apache.log4j.helpers.QuietWriter.QuietWriter@Writer@ErrorHandler#void"
+757 "org.apache.log4j.TempFileAppender.PREFIX_OPTION"
+758 "org.apache.log4j.gui.TextPanelAppender.LogPublishingThread.pubInterval"
+759 "org.apache.log4j.test.UnitTestOptionConverter.varSubstTest4#void"
+760 "org.apache.log4j.net.SyslogAppender.LOG_LOCAL5"
+761 "org.apache.log4j.xml.test.DOMTest.main@String#void"
+762 "org.apache.log4j.helpers.PatternParser.MIN_STATE"
+763 "org.apache.log4j.helpers.DateLayout.dateFormat@StringBuffer@LoggingEvent#void"
+764 "com.klopotek.utils.log.JDBCAppender.connection_class"
+765 "org.apache.log4j.net.JMSAppender.JMSAppender#void"
+766 "org.apache.log4j.test.StressAsyncAppender.delay@long#void"
+767 "com.psibt.framework.net.PluggableHTTPServer.addRequestHandler@HTTPRequestHandler#void"
+768 "com.klopotek.utils.log.JDBCLogger.configureTable@String#void"
+769 "org.apache.log4j.gui.LogTextPanel.setTextBackground@Color#void"
+770 "org.apache.log4j.helpers.DateLayout.getOptionStrings#String"
+771 "org.apache.log4j.spi.OptionHandler.activateOptions#void"
+772 "org.apache.log4j.performance.NOPWriter.write@String@int@int#void"
+773 "org.apache.log4j.Priority.Priority@int@String@int#void"
+774 "com.psibt.framework.net.UserDialogRequestHandler.parentComponent"
+775 "org.apache.log4j.RollingFileAppender.RollingFileAppender#void"
+776 "org.apache.log4j.gui.LogTextPanel.constructComponents#void"
+777 "org.apache.log4j.Hierarchy.disable@String#void"
+778 "org.apache.log4j.examples.MyPatternParser.UserDirPatternConverter.convert@LoggingEvent#String"
+779 "com.klopotek.utils.log.JDBCAppender.close#void"
+780 "org.apache.log4j.StressCategory.test#void"
+781 "org.apache.log4j.gui.TextPanelAppender.LogPublishingThread.triggerPrio"
+782 "org.apache.log4j.net.test.SyslogMin.ProgramInit@String#void"
+783 "org.apache.log4j.test.StressNDC.msgCounter"
+784 "org.apache.log4j.xml.DC.DC@ContentHandler#void"
+785 "org.apache.log4j.net.DatagramStringAppender.close#void"
+786 "org.apache.log4j.net.test.SMTPMin.test#void"
+787 "org.apache.log4j.net.JMSAppender.getTopicConnectionFactoryBindingName#String"
+788 "org.apache.log4j.HTMLLayout.setLocationInfo@boolean#void"
+789 "org.apache.log4j.performance.NullAppender.doAppend@LoggingEvent#void"
+790 "org.apache.log4j.helpers.PatternParser.NamedPatternConverter.convert@LoggingEvent#String"
+791 "org.apache.log4j.net.DatagramStringAppender.append@LoggingEvent#void"
+792 "org.apache.log4j.Hierarchy.emittedNoAppenderWarning"
+793 "org.apache.log4j.helpers.Loader.getResource@String@Class#URL"
+794 "org.apache.log4j.config.PropertySetterException.rootCause"
+795 "org.apache.log4j.helpers.CyclicBuffer.add@LoggingEvent#void"
+796 "org.apache.log4j.net.DatagramStringWriter.encoding"
+797 "org.apache.log4j.performance.NotLogging.SimpleMessage@Category@String@long#double"
+798 "org.apache.log4j.xml.examples.XPriority.LETHAL_INT"
+799 "com.klopotek.utils.log.JDBCLogger.msg_wildcard_pos"
+800 "org.apache.log4j.net.JMSAppender.getOptionStrings#String"
+801 "org.apache.log4j.test.UnitTestCyclicBuffer.doTest1@int#void"
+802 "org.apache.log4j.helpers.AbsoluteTimeDateFormat.DATE_AND_TIME_DATE_FORMAT"
+803 "org.apache.log4j.Hierarchy.disable"
+804 "org.apache.log4j.xml.examples.XCategory.getOptionStrings#String"
+805 "org.apache.log4j.helpers.PatternParser.DatePatternConverter.DatePatternConverter@FormattingInfo@DateFormat#void"
+806 "org.apache.log4j.spi.ThrowableInformation.vw"
+807 "org.apache.log4j.RollingFileAppenderBeanInfo.props"
+808 "org.apache.log4j.net.SyslogAppender.LOG_DAEMON"
+809 "org.apache.log4j.test.Shallow.test#void"
+810 "org.apache.log4j.test.PatternTest.test#void"
+811 "org.apache.log4j.xml.examples.XCategory.getOption@String#String"
+812 "org.apache.log4j.helpers.PatternParser.DatePatternConverter.convert@LoggingEvent#String"
+813 "org.apache.log4j.performance.NullAppender.t"
+814 "com.klopotek.utils.log.JDBCLogger.append@String#void"
+815 "org.apache.log4j.net.DatagramStringAppender.stp"
+816 "com.klopotek.utils.log.JDBCLogger.msg_wildcard"
+817 "org.apache.log4j.helpers.PatternParser.ESCAPE_CHAR"
+818 "org.apache.log4j.CategoryKey.hashCode#int"
+819 "org.apache.log4j.varia.PriorityRangeFilter.ACCEPT_ON_MATCH_OPTION"
+820 "org.apache.log4j.performance.Logging.runLength"
+821 "org.apache.log4j.gui.LogTextPanel.setTextFontName@String#void"
+822 "org.apache.log4j.varia.JDBCAppender.databaseUser"
+823 "org.apache.log4j.gui.TextPanelAppender.setName@String#void"
+824 "com.psibt.framework.net.RootRequestHandler.description"
+825 "org.apache.log4j.net.test.SyslogMin.CAT"
+826 "org.apache.log4j.TempFileAppender.path"
+827 "org.apache.log4j.performance.NOPWriter.write@char[]#void"
+828 "org.apache.log4j.performance.Logging.DelayedLoop@Category@String#double"
+829 "org.apache.log4j.spi.VectorWriter.println@String#void"
+830 "org.apache.log4j.test.CategoryWrapper.Usage@String#void"
+831 "org.apache.log4j.helpers.PatternParser.NDC_CONVERTER"
+832 "org.apache.log4j.test.StressAsyncAppender.StressAsyncAppender#void"
+833 "org.apache.log4j.spi.LocationInfo.fullInfo"
+834 "org.apache.log4j.helpers.CyclicBuffer.resize@int#void"
+835 "org.apache.log4j.test.UnitTestOptionConverter.toPriorityTest4#void"
+836 "org.apache.log4j.helpers.PatternParser.BasicPatternConverter.convert@LoggingEvent#String"
+837 "org.apache.log4j.examples.MyPatternLayout.MyPatternLayout@String#void"
+838 "org.apache.log4j.net.SocketNode.run#void"
+839 "org.apache.log4j.examples.Trivial.InnerTrivial.foo#void"
+840 "com.klopotek.utils.log.JDBCLogger.isConfigured#boolean"
+841 "org.apache.log4j.test.SocketAppenderTest.test#void"
+842 "org.apache.log4j.varia.test.JDBCTest.main@String#void"
+843 "org.apache.log4j.performance.ListVsVector.Chain.Chain@String#void"
+844 "org.apache.log4j.performance.SystemTime.systemCurrentTimeLoop#double"
+845 "org.apache.log4j.net.DatagramStringAppender.DATAGRAM_PORT_OPTION"
+846 "org.apache.log4j.spi.VectorWriter.println@Object#void"
+847 "org.apache.log4j.gui.TextPanelAppender.close#void"
+848 "org.apache.log4j.helpers.PatternParser.LocationPatternConverter.type"
+849 "org.apache.log4j.RollingFileAppender.maxBackupIndex"
+850 "org.apache.log4j.gui.examples.LogTextPanelExample.main@String#void"
+851 "org.apache.log4j.test.ROFile.main@String#void"
+852 "org.apache.log4j.net.DatagramStringAppender.DatagramStringAppender#void"
+853 "org.apache.log4j.varia.JDBCAppender.databaseURL"
+854 "org.apache.log4j.helpers.SyslogWriter.write@char[]@int@int#void"
+855 "org.apache.log4j.xml.test.SubClassTest.Usage@String#void"
+856 "org.apache.log4j.test.AsyncAppenderTest.delayBeforeClose"
+857 "org.apache.log4j.test.SpacePad.main@String#void"
+858 "org.apache.log4j.performance.NotLogging.SHORT_CAT"
+859 "org.apache.log4j.performance.ListVsVector.Chain.next"
+860 "org.apache.log4j.performance.Logging.Usage@String#void"
+861 "org.apache.log4j.helpers.ISO8601DateFormat.ISO8601DateFormat#void"
+862 "org.apache.log4j.performance.NotLogging.FullyOptimizedComplexMessage@Category@long#double"
+863 "org.apache.log4j.RollingFileAppenderBeanInfo.RollingFileAppenderBeanInfo#void"
+864 "org.apache.log4j.gui.LogTextPanel.eventBufferMaxSize"
+865 "org.apache.log4j.test.UnitTestCyclicBuffer.test1#void"
+866 "com.systemsunion.LoggingServer.SocketNode2.socket"
+867 "org.apache.log4j.xml.DC.chandler"
+868 "org.apache.log4j.performance.NullAppender.append@LoggingEvent#void"
+869 "org.apache.log4j.helpers.DateLayout.setDateFormat@String@TimeZone#void"
+870 "org.apache.log4j.net.JMSAppender.checkEntryConditions#boolean"
+871 "org.apache.log4j.net.DatagramStringWriter.address"
+872 "org.apache.log4j.test.PrintProperties.main@String#void"
+873 "org.apache.log4j.helpers.LogLog.debugEnabled"
+874 "org.apache.log4j.test.SpacePad.spacePad@StringBuffer@int#void"
+875 "org.apache.log4j.varia.JDBCAppender.BUFFER_OPTION"
+876 "org.apache.log4j.net.SyslogAppender.LOG_LPR"
+877 "org.apache.log4j.Hierarchy.defaultFactory"
+878 "org.apache.log4j.performance.ConcatVsArray.main@String#void"
+879 "org.apache.log4j.net.SyslogAppender.LOG_AUTH"
+880 "com.psibt.framework.net.UserDialogRequestHandler.DialogThread.run#void"
+881 "org.apache.log4j.xml.examples.XCategory.getInstance@Class#Category"
+882 "org.apache.log4j.HTMLLayout.getLocationInfo#boolean"
+883 "com.klopotek.utils.log.JDBCLogger.setConnection@Connection#void"
+884 "org.apache.log4j.gui.examples.LogTextPanelExample.LogTextPanelExample#void"
+885 "org.apache.log4j.gui.LogTextPanel.parseColor@String#Color"
+886 "org.apache.log4j.helpers.PatternParser.parse#PatternConverter"
+887 "org.apache.log4j.Priority.isGreaterOrEqual@Priority#boolean"
+888 "com.klopotek.utils.log.JDBCLogger.rs"
+889 "com.klopotek.utils.log.JDBCLogger.column_list"
+890 "NO_NAME.MyIDHandler.getID#Object"
+891 "org.apache.log4j.helpers.LogLog.warn@String#void"
+892 "org.apache.log4j.test.StressNDC.threadCounter"
+893 "com.psibt.framework.net.RootRequestHandler.handleRequest@String@Writer#boolean"
+894 "org.apache.log4j.Priority.toPriority@String@Priority#Priority"
+895 "org.apache.log4j.xml.DC.startDocument#void"
+896 "org.apache.log4j.net.SyslogAppender.initSyslogFacilityStr#void"
+897 "org.apache.log4j.test.UnitTestOptionConverter.suite#Test"
+898 "org.apache.log4j.RollingFileAppender.RollingFileAppender@Layout@String#void"
+899 "org.apache.log4j.spi.ErrorCode.WRITE_FAILURE"
+900 "com.klopotek.utils.log.JDBCLogger.num"
+901 "org.apache.log4j.Priority.syslogEquivalent"
+902 "org.apache.log4j.examples.Trivial.foo#void"
+903 "org.apache.log4j.helpers.PatternConverter.format@StringBuffer@LoggingEvent#void"
+904 "org.apache.log4j.test.DefaultInit.cat"
+905 "org.apache.log4j.helpers.SingleLineTracerPrintWriter.println@String#void"
+906 "org.apache.log4j.StressCategory.ctDump#void"
+907 "org.apache.log4j.examples.SortAlgo.dump#void"
+908 "org.apache.log4j.varia.JDBCAppender.getSQL@LoggingEvent#String"
+909 "org.apache.log4j.net.SyslogAppender.close#void"
+910 "org.apache.log4j.helpers.PatternConverter.convert@LoggingEvent#String"
+911 "org.apache.log4j.DefaultCategoryFactory.DefaultCategoryFactory#void"
+912 "org.apache.log4j.net.DatagramStringAppender.getOptionStrings#String"
+913 "com.psibt.framework.net.PluggableHTTPServer.main@String#void"
+914 "org.apache.log4j.test.SocketAppenderTest.init@String#void"
+915 "org.apache.log4j.helpers.PatternParser.MESSAGE_CONVERTER"
+916 "org.apache.log4j.TempFileAppender.setOption@String@String#void"
+917 "org.apache.log4j.examples.NumberCruncherClient.loop@NumberCruncher#void"
+918 "org.apache.log4j.gui.LogTextPanel.LogTextPanel#void"
+919 "org.apache.log4j.spi.ErrorCode.CLOSE_FAILURE"
+920 "org.apache.log4j.Priority.DEBUG"
+921 "org.apache.log4j.RollingFileAppenderBeanInfo.getPropertyDescriptors#PropertyDescriptor"
+922 "org.apache.log4j.helpers.PatternParser.LocationPatternConverter.convert@LoggingEvent#String"
+923 "org.apache.log4j.performance.NotLogging.MEDIUM_CAT"
+924 "org.apache.log4j.HTMLLayout.activateOptions#void"
+925 "org.apache.log4j.net.SocketNode.ois"
+926 "org.apache.log4j.xml.test.SubClassTest.test#void"
+927 "org.apache.log4j.helpers.SyslogQuietWriter.setPriority@int#void"
+928 "org.apache.log4j.Hierarchy.exists@String#Category"
+929 "org.apache.log4j.examples.NumberCruncherServer.factor@int#int[]"
+930 "org.apache.log4j.helpers.LogLog.setInternalDebugging@boolean#void"
+931 "org.apache.log4j.RollingFileAppender.setOption@String@String#void"
+932 "com.klopotek.utils.log.LogColumn.nullable"
+933 "com.klopotek.utils.log.JDBCLogger.getErrorMsg#String"
+934 "org.apache.log4j.net.DatagramStringWriter.setPrefix@String#void"
+935 "org.apache.log4j.helpers.NullEnumeration.hasMoreElements#boolean"
+936 "NO_NAME.LoggingOutputStream.DEFAULT_BUFFER_LENGTH"
+937 "org.apache.log4j.performance.NullAppender.NullAppender@Layout#void"
+938 "org.apache.log4j.helpers.PatternConverter.SPACES"
+939 "org.apache.log4j.examples.MyPatternLayout.main@String#void"
+940 "org.apache.log4j.xml.examples.XCategory.lethal@String#void"
+941 "org.apache.log4j.net.SocketNode.SocketNode@Socket@Hierarchy#void"
+942 "org.apache.log4j.net.SyslogAppender.getFacilityString@int#String"
+943 "org.apache.log4j.test.ShortSocketServer.init@String@String#void"
+944 "NO_NAME.MyConnectionHandler.username"
+945 "org.apache.log4j.examples.NumberCruncherServer.delay@int#void"
+946 "org.apache.log4j.test.UnitTestOptionConverter.UnitTestOptionConverter@String#void"
+947 "org.apache.log4j.xml.examples.XPriority.TRACE_STR"
+948 "org.apache.log4j.helpers.PatternParser.CLASS_LOCATION_CONVERTER"
+949 "org.apache.log4j.test.UnitTestCyclicBuffer.suite#Test"
+950 "org.apache.log4j.StressCategory.LENGTH"
+951 "org.apache.log4j.helpers.LogLog.debug@String#void"
+952 "org.apache.log4j.test.CategoryWrapper.CategoryWrapper@String#void"
+953 "org.apache.log4j.examples.MyPatternParser.counter"
+954 "org.apache.log4j.net.SyslogAppender.getFacilityPrinting#boolean"
+955 "com.psibt.framework.net.HTTPRequestHandler.setTitle@String#void"
+956 "org.apache.log4j.gui.EventBufferElement.prio"
+957 "org.apache.log4j.gui.TextPanelAppender.COLOR_OPTION_ERROR"
+958 "org.apache.log4j.config.PropertySetter.getPropertyDescriptor@String#PropertyDescriptor"
+959 "com.klopotek.utils.log.JDBCLogger.stmt"
+960 "..NAME_ERROR"
+961 "com.klopotek.utils.log.JDBCAppender.connected"
+962 "exercise.echo.server.EchoServer.EchoServer#void"
+963 "org.apache.log4j.performance.ListVsVector.Chain.s"
+964 "org.apache.log4j.StressCategory.random"
+965 "org.apache.log4j.helpers.DateLayout.TIMEZONE_OPTION"
+966 "org.apache.log4j.Hierarchy.setDisableOverride@String#void"
+967 "org.apache.log4j.test.StressNDC.StressNDC@Stack#void"
+968 "org.apache.log4j.RollingFileAppender.setFile@String@boolean#void"
+969 "org.apache.log4j.helpers.AbsoluteTimeDateFormat.ISO8601_DATE_FORMAT"
+970 "org.apache.log4j.examples.MyPatternLayout.createPatternParser@String#PatternParser"
+971 "org.apache.log4j.UnitTestDRFA.testRC3#void"
+972 "com.klopotek.utils.log.LogType.STATIC"
+973 "org.apache.log4j.net.DatagramStringWriter.host"
+974 "org.apache.log4j.net.DatagramStringWriter.write@char[]@int@int#void"
+975 "org.apache.log4j.net.SyslogAppender.LOG_FTP"
+976 "org.apache.log4j.gui.LogTextPanel.setTextColor@Priority@String#void"
+977 "org.apache.log4j.net.test.Loop.usage@String#void"
+978 "org.apache.log4j.helpers.AbsoluteTimeDateFormat.AbsoluteTimeDateFormat#void"
+979 "org.apache.log4j.examples.SortAlgo.swap@int@int#void"
+980 "org.apache.log4j.test.StressNDC.maxThreads"
+981 "org.apache.log4j.xml.examples.XMLSample.init@String#void"
+982 "org.apache.log4j.helpers.DateLayout.dateFormatOption"
+983 "org.apache.log4j.performance.Logging.main@String#void"
+984 "org.apache.log4j.performance.NewVsSetLen.RUN_LENGTH"
+985 "org.apache.log4j.nt.test.NTMin.cat"
+986 "org.apache.log4j.helpers.NullEnumeration.nextElement#Object"
+987 "org.apache.log4j.helpers.PatternParser.FULL_LOCATION_CONVERTER"
+988 "org.apache.log4j.varia.JDBCAppender.setOption@String@String#void"
+989 "NO_NAME.MyConnectionHandler.getConnection@String@String@String#Connection"
+990 "exercise.echo.Echo.reverse@String#String"
+991 "org.apache.log4j.xml.test.DisableOverrideTest.main@String#void"
+992 "org.apache.log4j.helpers.DateLayout.setOption@String@String#void"
+993 "org.apache.log4j.test.ShippedCodeFlagTest.CAT"
+994 "com.psibt.framework.net.HTTPRequestHandler.getDescription#String"
+995 "org.apache.log4j.gui.examples.LogTextPanelExample.packFrame"
+996 "org.apache.log4j.helpers.PatternParser.formattingInfo"
+997 "org.apache.log4j.gui.TextPanelAppender.COLOR_OPTION_DEBUG"
+998 "org.apache.log4j.helpers.DateLayout.DATE_FORMAT_OPTION"
+999 "org.apache.log4j.helpers.SyslogWriter.address"
+1000 "org.apache.log4j.examples.SortAlgo.bubbleSort#void"
+1001 "org.apache.log4j.gui.TextPanelAppender.logPublisher"
+1002 "com.systemsunion.LoggingServer.SocketNode2.SocketNode2@Socket#void"
+1003 "org.apache.log4j.test.UnitTestOptionConverter.setUp#void"
+1004 "org.apache.log4j.net.test.SMTPMin.main@String#void"
+1005 "org.apache.log4j.helpers.NullEnumeration.getInstance#NullEnumeration"
+1006 "org.apache.log4j.Hierarchy.getCurrentCategories#Enumeration"
+1007 "com.klopotek.utils.log.JDBCAppender.password"
+1008 "org.apache.log4j.net.DatagramStringAppender.setOption@String@String#void"
+1009 "com.psibt.framework.net.RootRequestHandler.handledPath"
+1010 "com.psibt.framework.net.UserDialogRequestHandler.UserDialogRequestHandler#void"
+1011 "org.apache.log4j.UnitTestDRFA.UnitTestDRFA@String#void"
+1012 "org.apache.log4j.net.DatagramStringAppender.DatagramStringAppender@Layout#void"
+1013 "org.apache.log4j.StressCategory.CT.priority"
+1014 "org.apache.log4j.Priority.FATAL_INT"
+1015 "org.apache.log4j.test.StressNDC.main@String#void"
+1016 "org.apache.log4j.Hierarchy.DISABLE_OFF"
+1017 "org.apache.log4j.Priority.toString#String"
+1018 "org.apache.log4j.HTMLLayout.setTitle@String#void"
+1019 "com.psibt.framework.net.PluggableHTTPServer.replyNotFound@Writer#void"
+1020 "org.apache.log4j.test.Shallow.init@String#void"
+1021 "org.apache.log4j.spi.OptionHandler.getOptionStrings#String"
+1022 "com.psibt.framework.net.RootRequestHandler.getReplyType#String"
+1023 "org.apache.log4j.gui.LogTextPanel.setTextFontSize@int#void"
+1024 "org.apache.log4j.varia.PriorityRangeFilter.priorityMax"
+1025 "org.apache.log4j.net.DatagramStringAppender.DEFAULT_HOST"
+1026 "com.klopotek.utils.log.DefaultConnectionHandler.getConnection@String@String@String#Connection"
+1027 "org.apache.log4j.helpers.CyclicBuffer.last"
+1028 "org.apache.log4j.TempFileAppender.PATH_OPTION"
+1029 "org.apache.log4j.examples.NumberCruncherServer.cat"
+1030 "org.apache.log4j.helpers.SyslogWriter.flush#void"
+1031 "com.klopotek.utils.log.JDBCAppender.requiresLayout#boolean"
+1032 "com.klopotek.utils.log.JDBCAppender.buffer_size"
+1033 "org.apache.log4j.TempFileAppender.append@LoggingEvent#void"
+1034 "org.apache.log4j.Hierarchy.addRenderer@Class@ObjectRenderer#void"
+1035 "org.apache.log4j.HTMLLayout.getFooter#String"
+1036 "org.apache.log4j.net.SyslogAppender.LOG_LOCAL0"
+1037 "org.apache.log4j.test.ShortSocketServer.port"
+1038 "com.klopotek.utils.log.JDBCLogger.errormsg"
+1039 "exercise.echo.server.EchoServer.reverse@String#String"
+1040 "org.apache.log4j.helpers.DateTimeDateFormat.parse@java.lang.String@ParsePosition#Date"
+1041 "com.psibt.framework.net.PluggableHTTPServer.DEFAULT_PORT"
+1042 "org.apache.log4j.spi.LocationInfo.pw"
+1043 "org.apache.log4j.net.JMSSink.lookup@Context@String#Object"
+1044 "org.apache.log4j.examples.NumberCruncherServer.usage@String#void"
+1045 "org.apache.log4j.test.StressAsyncAppender.maxThreadsConstrained@int#int"
+1046 "org.apache.log4j.helpers.PatternParser.i"
+1047 "com.psibt.framework.net.RootRequestHandler.getHandledPath#String"
+1048 "com.systemsunion.LoggingServer.SocketNode2.run#void"
+1049 "org.apache.log4j.test.StressNDC.parentDC"
+1050 "org.apache.log4j.TempFileAppender.SUFFIX_OPTION"
+1051 "org.apache.log4j.spi.LocationInfo.className"
+1052 "org.apache.log4j.examples.SortAlgo.CAT"
+1053 "org.apache.log4j.net.DatagramStringAppender.DEFAULT_ENCODING"
+1054 "org.apache.log4j.xml.examples.XMLSample.Usage@String#void"
+1055 "org.apache.log4j.Priority.levelStr"
+1056 "org.apache.log4j.varia.PriorityRangeFilter.getPriorityMax#Priority"
+1057 "org.apache.log4j.UnitTestDRFA.testRC2#void"
+1058 "org.apache.log4j.examples.SortAlgo.intArray"
+1059 "com.psibt.framework.net.HTTPRequestHandler.getHandledPath#String"
+1060 "com.klopotek.utils.log.JDBCAppender.con"
+1061 "org.apache.log4j.test.UnitTestCyclicBuffer.MAX"
+1062 "org.apache.log4j.helpers.PatternParser.ClassNamePatternConverter.ClassNamePatternConverter@FormattingInfo@int#void"
+1063 "org.apache.log4j.test.StressNDC.random"
+1064 "org.apache.log4j.helpers.DateTimeDateFormat.shortMonths"
+1065 "org.apache.log4j.xml.examples.XPriority.toPriority@String@Priority#Priority"
+1066 "exercise.echo.server.EchoServer.main@String#void"
+1067 "org.apache.log4j.Hierarchy.isDisabled@int#boolean"
+1068 "org.apache.log4j.HTMLLayout.sbuf"
+*Arcs
+461 15 1.0
+385 694 1.0
+174 130 3.0
+916 757 1.0
+460 477 1.0
+754 353 1.0
+564 428 1.0
+68 796 1.0
+928 636 1.0
+418 619 1.0
+606 412 1.0
+430 258 1.0
+159 197 6.0
+102 85 2.0
+795 691 1.0
+711 951 4.0
+696 391 2.0
+348 588 1.0
+942 675 1.0
+1004 383 1.0
+174 318 4.0
+330 137 1.0
+687 554 1.0
+341 704 2.0
+279 1020 1.0
+294 545 1.0
+1065 148 1.0
+903 910 1.0
+1015 41 1.0
+500 405 3.0
+414 996 1.0
+545 81 1.0
+709 648 1.0
+540 756 1.0
+24 81 1.0
+951 124 1.0
+804 374 1.0
+942 262 1.0
+988 875 1.0
+1003 572 5.0
+323 286 1.0
+559 482 4.0
+754 427 1.0
+348 645 9.0
+339 625 1.0
+788 261 1.0
+886 251 1.0
+687 364 2.0
+272 369 1.0
+768 132 1.0
+401 295 3.0
+69 458 1.0
+913 1041 2.0
+522 31 1.0
+776 318 1.0
+606 1036 1.0
+905 456 1.0
+321 716 1.0
+408 251 1.0
+582 679 5.0
+606 225 1.0
+687 136 4.0
+26 959 1.0
+134 278 2.0
+84 30 6.0
+258 76 1.0
+718 607 2.0
+476 825 6.0
+38 757 1.0
+939 837 1.0
+1008 212 1.0
+570 803 1.0
+606 565 1.0
+88 867 1.0
+789 228 1.0
+187 616 1.0
+682 109 1.0
+402 511 1.0
+183 230 1.0
+48 471 1.0
+720 706 3.0
+280 803 1.0
+606 879 1.0
+838 157 1.0
+17 572 1.0
+966 601 1.0
+893 198 2.0
+348 105 1.0
+205 103 1.0
+190 798 1.0
+942 975 1.0
+101 300 1.0
+940 590 3.0
+777 601 1.0
+495 867 1.0
+593 342 2.0
+125 902 3.0
+673 1032 1.0
+869 578 1.0
+1033 468 1.0
+713 185 1.0
+776 56 5.0
+663 999 1.0
+144 841 1.0
+693 1042 1.0
+6 122 1.0
+711 214 1.0
+88 122 1.0
+582 635 1.0
+172 295 4.0
+506 547 1.0
+68 304 1.0
+366 239 6.0
+687 414 1.0
+812 253 1.0
+539 950 1.0
+194 867 1.0
+687 518 1.0
+484 773 1.0
+258 313 2.0
+696 342 1.0
+711 943 1.0
+323 116 1.0
+749 378 2.0
+401 936 1.0
+341 744 1.0
+582 341 1.0
+440 802 1.0
+280 636 1.0
+913 90 1.0
+1023 233 1.0
+236 219 1.0
+1017 1055 1.0
+97 126 2.0
+890 245 2.0
+389 661 1.0
+522 331 3.0
+931 586 1.0
+168 437 5.0
+461 638 2.0
+184 231 1.0
+87 5 2.0
+427 231 2.0
+491 101 1.0
+562 511 1.0
+330 486 1.0
+134 257 2.0
+988 316 1.0
+68 871 1.0
+26 602 2.0
+786 644 6.0
+199 590 3.0
+70 173 2.0
+754 806 3.0
+97 1060 1.0
+720 1060 3.0
+509 856 1.0
+26 391 1.0
+713 424 1.0
+692 951 1.0
+1065 947 1.0
+364 42 1.0
+851 707 1.0
+376 586 1.0
+377 654 2.0
+779 764 1.0
+2 103 1.0
+1067 803 1.0
+739 329 1.0
+606 876 1.0
+2 260 1.0
+296 1063 1.0
+281 649 1.0
+97 211 2.0
+606 240 1.0
+97 593 1.0
+436 904 1.0
+779 142 1.0
+1048 866 1.0
+41 1063 1.0
+359 1011 9.0
+50 107 2.0
+887 649 2.0
+175 477 1.0
+850 603 1.0
+26 900 2.0
+916 1028 1.0
+989 413 12.0
+499 832 3.0
+87 477 2.0
+763 699 2.0
+174 182 2.0
+190 585 2.0
+499 726 1.0
+838 34 1.0
+526 858 1.0
+793 345 1.0
+891 646 1.0
+79 833 3.0
+828 820 2.0
+886 208 14.0
+841 21 6.0
+227 636 4.0
+23 742 1.0
+687 802 1.0
+850 884 4.0
+70 732 1.0
+687 978 1.0
+1048 248 4.0
+696 900 1.0
+540 423 1.0
+330 583 1.0
+144 397 1.0
+491 685 1.0
+930 873 1.0
+330 596 2.0
+886 234 3.0
+749 576 1.0
+850 22 1.0
+878 25 2.0
+991 527 1.0
+564 573 1.0
+809 204 4.0
+687 1046 1.0
+606 579 1.0
+584 301 1.0
+983 828 1.0
+525 920 1.0
+612 334 1.0
+323 5 1.0
+142 673 1.0
+979 1058 2.0
+893 1009 1.0
+12 379 1.0
+710 473 1.0
+82 981 1.0
+793 667 2.0
+940 798 1.0
+1006 636 2.0
+375 566 1.0
+520 276 1.0
+913 767 3.0
+884 920 1.0
+414 63 1.0
+593 620 4.0
+713 920 1.0
+988 446 1.0
+385 887 1.0
+564 363 1.0
+983 860 1.0
+903 575 5.0
+536 40 1.0
+149 950 7.0
+705 200 2.0
+713 261 1.0
+918 776 1.0
+419 867 1.0
+102 375 1.0
+87 204 2.0
+474 716 1.0
+169 124 1.0
+780 640 1.0
+814 900 1.0
+1066 962 4.0
+896 167 1.0
+907 745 3.0
+942 565 1.0
+485 844 1.0
+151 833 3.0
+333 867 1.0
+780 189 1.0
+732 964 1.0
+337 469 1.0
+538 892 1.0
+559 917 1.0
+421 557 1.0
+902 154 1.0
+869 541 1.0
+339 1014 1.0
+348 957 1.0
+687 253 1.0
+912 123 1.0
+455 977 2.0
+98 926 1.0
+302 85 1.0
+461 532 1.0
+70 950 2.0
+272 370 1.0
+670 563 1.0
+348 660 1.0
+180 122 1.0
+484 920 2.0
+69 209 1.0
+718 310 6.0
+205 391 1.0
+134 944 2.0
+696 205 1.0
+37 725 1.0
+145 563 1.0
+491 325 1.0
+322 957 1.0
+680 648 1.0
+145 870 1.0
+893 297 2.0
+414 208 1.0
+98 727 1.0
+733 833 3.0
+967 296 1.0
+406 598 1.0
+66 213 2.0
+102 119 3.0
+933 1038 2.0
+84 386 1.0
+418 440 1.0
+913 367 9.0
+472 832 1.0
+102 302 1.0
+834 81 5.0
+66 617 1.0
+26 103 1.0
+157 877 1.0
+593 273 1.0
+500 797 1.0
+414 595 1.0
+172 598 2.0
+264 288 1.0
+330 141 1.0
+499 283 1.0
+330 1032 1.0
+671 263 1.0
+147 773 1.0
+564 529 1.0
+312 638 1.0
+750 370 1.0
+39 81 2.0
+1004 786 1.0
+330 706 1.0
+913 1010 1.0
+38 1050 1.0
+97 706 1.0
+685 300 1.0
+66 319 7.0
+988 106 1.0
+312 1024 1.0
+883 478 1.0
+174 277 2.0
+767 276 1.0
+718 933 1.0
+545 1027 1.0
+814 216 1.0
+943 516 1.0
+746 543 2.0
+931 849 2.0
+26 620 1.0
+1065 590 2.0
+191 1019 2.0
+894 920 2.0
+696 602 1.0
+114 253 1.0
+761 267 1.0
+852 1053 1.0
+401 639 4.0
+216 3 1.0
+86 204 1.0
+525 230 1.0
+674 677 16.0
+913 651 1.0
+424 637 2.0
+435 15 1.0
+175 204 1.0
+90 276 5.0
+582 843 5.0
+718 126 1.0
+343 408 1.0
+256 638 1.0
+780 906 1.0
+779 1060 1.0
+540 738 1.0
+337 124 1.0
+749 568 1.0
+499 375 3.0
+461 1024 1.0
+550 774 1.0
+392 645 1.0
+686 258 1.0
+814 888 6.0
+538 967 3.0
+91 607 1.0
+790 10 1.0
+42 747 1.0
+570 951 2.0
+102 160 1.0
+66 338 1.0
+628 1053 1.0
+506 833 4.0
+952 230 1.0
+63 332 1.0
+869 171 1.0
+1045 371 2.0
+732 577 6.0
+26 972 1.0
+768 342 2.0
+142 486 1.0
+671 917 1.0
+906 950 1.0
+991 523 1.0
+39 453 1.0
+687 208 14.0
+328 476 1.0
+670 951 1.0
+710 403 2.0
+673 142 1.0
+1065 695 2.0
+79 398 2.0
+606 390 1.0
+842 446 1.0
+499 395 1.0
+769 56 1.0
+768 602 2.0
+172 293 2.0
+408 35 1.0
+538 213 1.0
+732 59 2.0
+125 154 2.0
+768 900 3.0
+720 719 4.0
+810 505 10.0
+810 204 4.0
+339 610 1.0
+693 83 3.0
+614 55 1.0
+125 839 1.0
+500 196 1.0
+750 369 1.0
+63 288 1.0
+388 370 1.0
+992 965 1.0
+916 324 1.0
+534 1043 2.0
+35 408 1.0
+4 361 1.0
+780 539 1.0
+713 637 5.0
+894 773 5.0
+97 764 2.0
+87 588 2.0
+142 607 2.0
+921 807 1.0
+550 1047 1.0
+500 265 1.0
+1045 160 2.0
+696 620 1.0
+916 826 4.0
+526 477 2.0
+829 231 1.0
+886 595 2.0
+279 809 1.0
+894 5 2.0
+68 251 1.0
+344 1064 1.0
+406 639 1.0
+943 1037 1.0
+447 952 4.0
+221 665 1.0
+499 119 4.0
+640 389 1.0
+710 714 1.0
+79 113 4.0
+651 367 1.0
+305 367 1.0
+570 601 1.0
+564 596 1.0
+328 782 1.0
+595 60 2.0
+886 747 2.0
+39 691 2.0
+151 398 2.0
+828 109 1.0
+348 821 1.0
+748 462 3.0
+101 546 3.0
+687 915 1.0
+308 779 1.0
+886 996 8.0
+652 548 1.0
+305 604 1.0
+606 675 1.0
+522 519 2.0
+333 122 1.0
+894 588 2.0
+732 950 2.0
+793 951 4.0
+886 1046 8.0
+97 840 1.0
+619 204 7.0
+693 547 1.0
+216 232 1.0
+712 695 3.0
+958 752 1.0
+458 584 1.0
+339 309 1.0
+720 211 3.0
+339 588 1.0
+280 1016 1.0
+435 420 1.0
+312 532 1.0
+628 540 1.0
+842 875 2.0
+418 631 1.0
+658 1068 26.0
+884 502 1.0
+46 197 4.0
+942 412 1.0
+189 73 3.0
+1000 1052 1.0
+323 1001 1.0
+172 177 1.0
+368 114 1.0
+886 402 2.0
+821 233 1.0
+70 380 2.0
+842 106 1.0
+490 287 1.0
+922 848 1.0
+687 402 1.0
+424 422 1.0
+322 105 1.0
+445 867 1.0
+712 887 1.0
+916 557 4.0
+886 252 2.0
+1012 314 1.0
+665 856 1.0
+812 690 2.0
+18 818 1.0
+714 403 1.0
+348 393 1.0
+26 1038 5.0
+540 49 1.0
+385 695 3.0
+687 987 1.0
+26 622 4.0
+614 1047 1.0
+801 545 1.0
+330 573 1.0
+335 270 1.0
+713 613 1.0
+673 310 2.0
+863 807 5.0
+895 867 1.0
+1000 979 1.0
+76 822 1.0
+891 124 1.0
+752 251 1.0
+72 899 1.0
+737 226 2.0
+322 997 1.0
+926 712 1.0
+942 167 1.0
+96 313 1.0
+191 249 2.0
+114 951 4.0
+330 91 1.0
+687 251 1.0
+534 307 1.0
+600 938 2.0
+330 126 1.0
+561 532 1.0
+918 175 1.0
+145 31 1.0
+322 222 1.0
+818 470 1.0
+82 20 1.0
+366 545 2.0
+800 45 1.0
+749 514 3.0
+1015 634 2.0
+614 271 1.0
+559 1029 2.0
+339 229 1.0
+142 933 1.0
+678 691 1.0
+102 726 1.0
+854 663 1.0
+642 253 2.0
+713 1068 38.0
+330 764 1.0
+82 1054 1.0
+430 708 1.0
+619 920 1.0
+202 457 1.0
+976 233 1.0
+385 275 1.0
+992 998 1.0
+1048 268 2.0
+348 1023 1.0
+6 867 1.0
+2 391 1.0
+258 908 1.0
+474 269 1.0
+707 448 1.0
+97 961 1.0
+348 204 1.0
+789 813 2.0
+1000 647 1.0
+199 887 1.0
+12 810 1.0
+216 959 1.0
+732 780 1.0
+127 942 1.0
+814 620 1.0
+8 253 2.0
+846 231 1.0
+330 363 1.0
+711 516 1.0
+558 490 1.0
+951 469 1.0
+199 798 1.0
+91 659 1.0
+445 122 3.0
+474 426 1.0
+800 426 1.0
+801 1061 1.0
+251 28 1.0
+264 284 1.0
+687 306 1.0
+697 210 1.0
+526 196 2.0
+421 324 1.0
+834 453 1.0
+732 73 3.0
+97 1007 1.0
+302 1045 1.0
+26 342 1.0
+869 721 1.0
+591 820 2.0
+770 998 1.0
+752 574 2.0
+97 507 2.0
+1015 538 1.0
+101 984 2.0
+768 959 2.0
+190 590 2.0
+149 73 1.0
+886 60 1.0
+670 253 1.0
+509 700 1.0
+851 611 1.0
+903 600 3.0
+942 560 1.0
+682 464 2.0
+522 269 1.0
+500 67 9.0
+131 679 2.0
+377 575 2.0
+330 961 4.0
+175 920 1.0
+216 620 2.0
+323 30 1.0
+711 1037 2.0
+658 329 1.0
+696 260 2.0
+348 477 1.0
+4 636 2.0
+903 654 2.0
+761 78 1.0
+692 53 1.0
+992 982 1.0
+194 122 1.0
+814 972 1.0
+1008 845 1.0
+1035 1068 5.0
+159 204 1.0
+2 972 1.0
+364 253 1.0
+488 400 1.0
+401 400 1.0
+852 1025 1.0
+131 704 2.0
+768 273 1.0
+1043 251 1.0
+780 950 1.0
+406 177 1.0
+836 503 1.0
+606 139 1.0
+42 252 3.0
+216 19 4.0
+791 72 2.0
+606 475 1.0
+174 233 1.0
+144 914 1.0
+500 526 1.0
+685 984 2.0
+655 892 2.0
+251 124 1.0
+414 219 1.0
+98 855 1.0
+389 577 3.0
+687 805 1.0
+1004 621 1.0
+461 420 1.0
+458 209 1.0
+942 569 1.0
+2 244 1.0
+323 756 1.0
+857 874 2.0
+272 340 1.0
+926 238 9.0
+114 968 1.0
+682 820 1.0
+687 108 5.0
+330 211 1.0
+897 946 27.0
+341 635 1.0
+474 45 1.0
+461 819 1.0
+754 641 1.0
+499 85 3.0
+606 808 1.0
+425 477 1.0
+330 2 1.0
+970 163 1.0
+149 70 1.0
+339 204 1.0
+606 560 1.0
+814 602 1.0
+684 901 1.0
+348 152 1.0
+258 373 1.0
+504 414 1.0
+339 477 1.0
+78 751 7.0
+761 89 1.0
+863 921 1.0
+1012 1025 1.0
+4 40 1.0
+175 233 2.0
+814 26 1.0
+640 577 1.0
+504 143 1.0
+1026 110 6.0
+322 521 1.0
+1012 540 1.0
+942 808 1.0
+828 740 2.0
+147 920 2.0
+76 594 1.0
+685 7 2.0
+120 355 1.0
+678 81 1.0
+974 68 1.0
+834 691 3.0
+362 552 1.0
+812 410 1.0
+491 984 2.0
+522 670 1.0
+447 183 1.0
+568 514 1.0
+330 529 1.0
+421 664 1.0
+685 546 3.0
+87 920 2.0
+687 441 1.0
+582 131 1.0
+710 982 1.0
+1015 920 1.0
+670 331 3.0
+205 260 1.0
+253 124 1.0
+838 925 2.0
+801 239 2.0
+66 296 1.0
+236 747 1.0
+362 197 1.0
+264 332 1.0
+97 883 1.0
+38 1028 1.0
+942 760 1.0
+913 477 1.0
+348 521 1.0
+949 524 9.0
+882 261 1.0
+841 940 1.0
+384 122 1.0
+687 517 1.0
+78 204 2.0
+1015 319 5.0
+886 219 3.0
+337 873 1.0
+335 993 1.0
+302 832 3.0
+506 398 3.0
+886 743 8.0
+205 972 1.0
+593 959 1.0
+1012 459 1.0
+841 385 1.0
+191 623 4.0
+593 478 1.0
+101 7 3.0
+4 18 1.0
+710 161 2.0
+678 453 1.0
+869 969 1.0
+180 867 1.0
+886 762 2.0
+172 217 1.0
+142 512 3.0
+777 891 1.0
+790 381 2.0
+323 918 1.0
+584 209 1.0
+406 295 1.0
+522 563 1.0
+926 385 1.0
+11 201 1.0
+756 668 1.0
+619 5 2.0
+793 753 2.0
+1002 268 1.0
+786 204 1.0
+76 686 4.0
+712 694 1.0
+168 553 1.0
+157 227 1.0
+992 403 1.0
+1012 1053 1.0
+118 207 3.0
+68 128 1.0
+501 571 1.0
+66 1049 1.0
+322 660 1.0
+976 885 1.0
+142 814 1.0
+202 46 1.0
+606 167 1.0
+66 892 5.0
+958 574 4.0
+145 519 1.0
+696 244 1.0
+667 124 1.0
+97 659 3.0
+539 380 1.0
+62 77 1.0
+495 122 1.0
+236 743 1.0
+26 889 5.0
+549 223 1.0
+175 87 1.0
+23 182 6.0
+776 742 4.0
+687 717 1.0
+501 162 1.0
+983 682 2.0
+458 958 1.0
+168 758 1.0
+330 97 1.0
+299 56 1.0
+131 744 1.0
+606 653 1.0
+330 659 3.0
+926 204 1.0
+66 538 1.0
+763 161 3.0
+749 253 1.0
+487 122 1.0
+886 817 2.0
+777 803 3.0
+1008 123 1.0
+330 428 2.0
+199 694 1.0
+733 93 4.0
+814 622 2.0
+711 941 1.0
+687 831 1.0
+91 696 1.0
+736 164 3.0
+940 694 1.0
+376 444 1.0
+720 404 1.0
+330 507 1.0
+834 1027 2.0
+564 141 1.0
+672 982 1.0
+754 703 4.0
+834 480 5.0
+685 115 2.0
+134 989 2.0
+348 5 1.0
+811 374 1.0
+66 100 1.0
+473 982 2.0
+421 44 1.0
+624 1064 1.0
+842 588 1.0
+348 755 1.0
+378 409 1.0
+377 195 2.0
+697 86 1.0
+348 222 1.0
+202 159 1.0
+884 323 1.0
+988 594 1.0
+330 1007 1.0
+912 212 1.0
+720 764 2.0
+931 444 1.0
+97 768 1.0
+205 244 1.0
+851 188 1.0
+712 275 1.0
+339 920 1.0
+839 630 1.0
+564 137 1.0
+544 695 1.0
+687 996 12.0
+852 314 1.0
+174 56 3.0
+37 18 2.0
+302 371 1.0
+929 1029 4.0
+593 816 2.0
+227 4 2.0
+542 92 1.0
+26 888 1.0
+323 434 1.0
+322 755 1.0
+814 244 1.0
+942 876 1.0
+606 975 1.0
+476 204 1.0
+120 373 1.0
+23 130 4.0
+880 94 1.0
+293 295 1.0
+347 784 1.0
+641 231 1.0
+842 316 1.0
+768 888 2.0
+76 853 1.0
+983 365 2.0
+490 642 1.0
+651 498 1.0
+348 454 1.0
+91 126 1.0
+941 925 1.0
+454 864 1.0
+614 450 8.0
+151 530 4.0
+216 799 1.0
+687 99 1.0
+696 972 1.0
+312 281 1.0
+202 552 1.0
+388 340 1.0
+655 980 2.0
+26 132 2.0
+303 859 1.0
+894 477 2.0
+880 112 1.0
+500 254 1.0
+384 867 1.0
+542 471 1.0
+628 459 1.0
+339 5 1.0
+942 390 1.0
+525 493 1.0
+619 477 1.0
+606 760 1.0
+988 708 1.0
+181 353 1.0
+1015 980 1.0
+328 1 1.0
+942 579 1.0
+84 1001 1.0
+1045 832 2.0
+386 781 2.0
+926 669 1.0
+673 718 1.0
+20 443 4.0
+874 241 2.0
+1065 585 2.0
+227 170 1.0
+687 344 1.0
+942 240 1.0
+279 193 1.0
+705 748 1.0
+432 459 1.0
+538 319 2.0
+485 360 1.0
+1056 1024 1.0
+104 233 1.0
+23 864 1.0
+292 453 1.0
+419 122 1.0
+687 969 2.0
+942 879 1.0
+1005 656 1.0
+432 540 1.0
+663 452 1.0
+595 433 3.0
+776 429 2.0
+733 398 2.0
+795 81 2.0
+322 393 1.0
+669 53 1.0
+869 285 1.0
+770 965 1.0
+814 391 1.0
+912 845 1.0
+1015 220 1.0
+478 273 2.0
+814 103 1.0
+618 294 4.0
+216 1038 1.0
+149 577 1.0
+929 945 1.0
+564 583 1.0
+175 5 1.0
+168 23 1.0
+852 540 1.0
+1000 1058 3.0
+102 472 2.0
+216 622 2.0
+447 525 1.0
+886 439 2.0
+710 608 1.0
+670 519 3.0
+202 362 1.0
+280 77 1.0
+913 272 1.0
+844 372 2.0
+389 950 1.0
+540 1025 1.0
+895 122 1.0
+869 802 1.0
+606 569 1.0
+795 480 2.0
+66 41 5.0
+531 226 1.0
+298 408 1.0
+227 18 1.0
+414 743 1.0
+809 597 10.0
+869 683 1.0
+364 251 1.0
+678 480 1.0
+23 277 6.0
+931 226 2.0
+942 653 1.0
+916 1050 1.0
+299 885 1.0
+674 477 2.0
+348 920 1.0
+651 5 1.0
+500 862 1.0
+983 591 1.0
+537 251 1.0
+499 302 1.0
+550 271 1.0
+513 511 1.0
+23 174 1.0
+440 631 1.0
+221 509 1.0
+360 372 2.0
+352 1041 1.0
+687 259 1.0
+458 891 2.0
+942 475 1.0
+264 951 1.0
+1008 314 1.0
+640 73 2.0
+351 748 1.0
+48 92 1.0
+274 289 1.0
+430 313 2.0
+593 232 1.0
+916 44 1.0
+388 369 1.0
+253 28 1.0
+190 275 1.0
+881 334 1.0
+91 97 1.0
+674 920 1.0
+542 261 2.0
+1066 111 1.0
+348 997 1.0
+1015 213 2.0
+658 261 1.0
+550 730 1.0
+401 598 3.0
+791 815 1.0
+330 205 1.0
+687 42 1.0
+951 873 1.0
+584 951 1.0
+886 687 3.0
+87 773 6.0
+720 961 2.0
+732 380 2.0
+863 253 2.0
+795 1027 3.0
+663 589 1.0
+673 512 2.0
+1033 421 1.0
+886 417 2.0
+718 26 1.0
+593 799 4.0
+655 967 2.0
+750 340 1.0
+805 690 1.0
+869 259 1.0
+66 783 2.0
+979 650 1.0
+545 691 1.0
+752 209 2.0
+795 453 3.0
+702 110 1.0
+216 26 1.0
+692 669 1.0
+701 849 1.0
+886 63 1.0
+988 822 1.0
+491 7 1.0
+63 284 1.0
+26 260 2.0
+101 115 2.0
+687 861 1.0
+362 457 3.0
+330 481 1.0
+499 371 5.0
+966 803 1.0
+406 936 2.0
+68 394 2.0
+966 951 1.0
+84 27 1.0
+323 645 1.0
+1002 248 1.0
+906 577 3.0
+928 18 1.0
+175 588 1.0
+294 239 2.0
+830 952 1.0
+142 1060 2.0
+42 1046 6.0
+841 669 1.0
+842 96 1.0
+883 273 1.0
+787 269 1.0
+785 49 1.0
+884 603 1.0
+942 225 1.0
+838 609 4.0
+667 646 1.0
+988 853 1.0
+368 226 1.0
+545 480 1.0
+302 119 2.0
+894 204 2.0
+903 195 1.0
+190 695 2.0
+828 464 1.0
+66 967 4.0
+69 533 1.0
+504 996 1.0
+687 1062 1.0
+942 139 1.0
+791 49 3.0
+522 716 1.0
+1034 77 1.0
+39 480 4.0
+682 740 1.0
+18 470 1.0
+785 815 1.0
+506 1051 5.0
+550 55 1.0
+696 103 1.0
+538 655 1.0
+942 1036 1.0
+449 540 1.0
+86 985 6.0
+487 867 1.0
+149 380 2.0
+865 801 1.0
+389 14 4.0
+189 950 1.0
+97 720 1.0
+488 172 1.0
+534 253 1.0
+720 1007 3.0
+12 315 1.0
+555 231 1.0
+564 481 1.0
+732 14 1.0
+533 209 2.0
+542 329 1.0
+386 437 3.0
+97 607 4.0
+72 355 1.0
+435 819 1.0
+692 374 1.0
+114 849 4.0
+896 942 1.0
+522 537 2.0
+526 405 1.0
+501 415 1.0
+606 262 1.0
+713 588 1.0
+657 794 2.0
+386 746 1.0
+680 899 1.0
+179 54 1.0
+559 1044 1.0
+913 750 1.0
+66 220 1.0
+75 686 1.0
+593 3 1.0
+840 342 1.0
+540 251 1.0
+983 740 1.0
+1000 442 1.0
+941 609 1.0
+221 700 1.0
+940 887 1.0
+720 483 1.0
